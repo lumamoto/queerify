@@ -1,1 +1,1 @@
-# Pride Hacks 2
+# Queerify
