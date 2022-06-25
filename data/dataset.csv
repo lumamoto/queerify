@@ -1,0 +1,584 @@
+,artist_name,track_uri,artist_uri,track_name,album_uri,duration,album_name,artists
+0,Kadie Elder,spotify:track:72ey4Cr2eXXwH9IMlhzuCV,spotify:artist:6y2lKfMfaxfcEmHwU058FG,First Time He Kissed a Boy,spotify:album:1GYbbLzBosZi7MLG12iasq,187977,First Time He Kissed a Boy,Kadie Elder
+1,Matt Alber,spotify:track:3vsHwtwcRXjwejyfKgj6dX,spotify:artist:3v2p34eAq6fINTEyJ1w2vK,Handsome Man,spotify:album:5ysULa9YY0ccEAZtxklzln,240920,Wind Sand Stars,Matt Alber
+2,Steve Grand,spotify:track:7i2xzOJU1O7hrP8kqqBchZ,spotify:artist:0oqk73d6vKVx8Ekz4onThW,All-American Boy,spotify:album:40nTEfg3tTj1bptrG7IQU0,297410,All American Boy,Steve Grand
+3,Adam Lambert,spotify:track:44aN5xKL3kGHvQ5bXVk6B8,spotify:artist:6prmLEyn4LfHlD9NnXWlf7,Ghost Town,spotify:album:3kaQUt8Mp906u1fI0LDqO6,208330,The Original High (Deluxe Version),Adam Lambert
+4,Queen,spotify:track:09jZZLarDD6MI3eT3ujsEL,spotify:artist:1dfeR4HaWDbWqFHLkxsg1d,I Want To Break Free,spotify:album:5Ck5a5KpFGdl6evWX5ENo8,200973,The Works,Queen
+5,Soft Cell,spotify:track:1tVzVPIcCFz5QUMGLPHJEc,spotify:artist:6aq8T2RcspxVOGgMrTzjWc,Tainted Love,spotify:album:1GfUA3buY8Ref28escKLrC,156906,Tainted Love / Where Did Our Love Go,Soft Cell
+6,George Michael,spotify:track:1SKApv6ZfJ9bkUxeRObJEF,spotify:artist:19ra5tSw0tWufvUp8GotLo,Freedom! '90,spotify:album:3coLNlyStg9h7f8CZ103Rl,388400,Ladies And Gentlemen... The Best Of George Michael,George Michael
+7,Elton John,spotify:track:5nPdMALTEd7HOjn16oNf2X,spotify:artist:3PhoLpVuITZKcymswpck5b,Don't Go Breaking My Heart,spotify:album:6tKgjhjWDMVlgb3a6KoI1x,275440,Rock Of The Westies (Remastered),"Elton John, Kiki Dee"
+8,Troye Sivan,spotify:track:71T7xF5wLbDRg76jxAwDqA,spotify:artist:3WGpXCj9YhhfX11TToZcXP,My My My!,spotify:album:6W9vAihnwRgnRJ7griWzLE,204726,My My My!,Troye Sivan
+9,Kevin Abstract,spotify:track:1AUA7JlrARv430PUJRK0Lp,spotify:artist:07EcmJpfAday8xGkslfanE,American Boyfriend,spotify:album:1yyCXBEu27Ia1Y3torWIwC,238248,American Boyfriend: A Suburban Love Story,Kevin Abstract
+10,BROCKHAMPTON,spotify:track:0dWOFwdXrbBUYqD9DLsoyK,spotify:artist:1Bl6wpkWCQ4KVgnASpvzzA,BLEACH,spotify:album:5c2AzoNyr46fCQM5d8mxE0,273151,SATURATION III,BROCKHAMPTON
+11,Passion Pit,spotify:track:52a6VcF23v5HB7KfDEmBHq,spotify:artist:7gjAu1qr5C2grXeQFFOGeh,Carried Away,spotify:album:14JU5SskmcyckE5I8PY6lv,221973,Gossamer,Passion Pit
+12,Neon Trees,spotify:track:0l4DTppOxy7NUaEcwXuOb6,spotify:artist:0RpddSzUHfncUWNJXKOsjy,Animal,spotify:album:6oZ5iDw1LT25svEK0g5OqT,212306,Habits (Spotify),Neon Trees
+13,Taylor Bennett,spotify:track:6m3ZXs465Rt4Tc1iiLktXL,spotify:artist:6CqjoQyGZlnhnq5gAUz92c,Broad Shoulders (feat. Chance the Rapper),spotify:album:61KTKfjFX7exj2Od31ulYA,227263,Broad Shoulders,"Taylor Bennett, Chance the Rapper"
+14,Simon Curtis,spotify:track:0kW7NQraFEyAhXqaE4cZG0,spotify:artist:4OfvUFjzAjXY8XSWd8MBTE,Flesh,spotify:album:2RUxofdTrjaWmYVnstbP5r,260000,R∆,Simon Curtis
+15,The Irrepressibles,spotify:track:33vDXztradlEuqKLz5BRRZ,spotify:artist:1v5bOzXbhrQ57qSvRwGA6s,Two Men In Love,spotify:album:762A3Z51nqkzTN4HgOY9Cs,386773,Nude,The Irrepressibles
+16,R.E.M.,spotify:track:4PLqctGITm4ve4K9bM1IfV,spotify:artist:4KWTAlx2RvbpseOGMEmROg,At My Most Beautiful,spotify:album:0NmRiwPIW27JPyoxcwil4z,215200,Up,R.E.M.
+17,MNEK,spotify:track:40hcwo4kW02HIZjqwQ2X27,spotify:artist:7uMh23xWiuR7zsNkuNcm2G,Tongue,spotify:album:03TzmqRbP0Cv3KSLJERC3W,210266,Tongue,MNEK
+18,SAKIMA,spotify:track:1ZMlftjHNDc9R9bT4pvYZw,spotify:artist:2tg1rWk2rWaltTk0baRjRu,Daddy,spotify:album:6HYn6xlkH5FaJAdFMlyBlI,152079,Ricky,"SAKIMA, ylxr"
+19,Jay Brannan,spotify:track:1IW103k42IhJUyFyJ2hkHF,spotify:artist:2F3dZJv3K7T5sLthbp8vYa,Housewife,spotify:album:6PWMQlQPIQPkfGsqxfmZHl,211000,goddamned,Jay Brannan
+20,Kele Okereke,spotify:track:1X2VBvWQBA7Y3qFF7KorvG,spotify:artist:4ofO3LyUh6kDM3CTLQasFi,My Guy,spotify:album:1Roqqh9z76dk77g98fiR2E,175560,Universal Love - Wedding Songs Reimagined,Kele Okereke
+21,Pet Shop Boys,spotify:track:6HOV3fW5QwECw9YhX58L6V,spotify:artist:2ycnb8Er79LoH2AsR5ldjh,The Night I Fell in Love,spotify:album:5Frq3X2u8cFxA4Bqw8WuL6,304733,Release,Pet Shop Boys
+22,Anthony Rapp,spotify:track:3mGyukUfF0uuqXKZbTiPLs,spotify:artist:3GZGJ33pJdAdUL6IQpK8mR,Just Some Guy,spotify:album:7GbmpJ8asvT4bRWznKaevF,242800,Look Around,Anthony Rapp
+23,REINDIER,spotify:track:1jeCieFpiT2HthFcMsmEIt,spotify:artist:7B8bcaveMV31zAvok466cK,My Man,spotify:album:2rgH3RktfyVtgEuXGH2x1g,228443,Porcelain EP,REINDIER
+24,Shamir,spotify:track:6uV6ez9OSICy0bjBCXcIa7,spotify:artist:7JgXEHI1oEiQICAMeCsKTj,Straight Boy,spotify:album:6w8ykI1LU5XdcXOsmxzW4y,266098,Revelations,Shamir
+25,Ezra Furman,spotify:track:2ODYENAvi3VSpQDZ2EDTdP,spotify:artist:1uR7zoLrSRI8bSL43OZ0GY,Suck the Blood from My Wound,spotify:album:3avy9ZvrDRdDQKRcf1kJ6V,289000,Transangelic Exodus,Ezra Furman
+26,Bronski Beat,spotify:track:7grRm718788MzsonGq4Y1M,spotify:artist:2wpWOzQE5TpA0dVnh5YD08,Need a Man Blues,spotify:album:6OMYQUITdN6wBaWfEtgooI,259959,The Age of Consent,Bronski Beat
+27,The Hound,spotify:track:11C9z1X31MdAJVIRhovvlb,spotify:artist:42aDBJiUp52rpu0bTVlaES,Can't Let You Go,spotify:album:2fHVHSWepiDEIL0mk6W0XN,212544,Can't Let You Go,The Hound
+28,Ludlow,spotify:track:4a3wmS6P1kaKA3zNArL0Bt,spotify:artist:1M53T7uktQTvgqM2ui1fui,Nobody Tell a Name (feat. Raury),spotify:album:2XXqBkpXDNhUQw9K4fNj8t,168333,Restoration of an American Idol,"Ludlow, Taylor Bennett, Raury"
+29,Dani Umpi,spotify:track:0oXAx3Gj3yW6C8DgoSrRis,spotify:artist:1KYLoFQ7Cwm4eOHruB5OMI,Tebas,spotify:album:5kO3TdH1b1dXZYAhoKYokv,235946,Lechiguanas,Dani Umpi
+30,Scissor Sisters,spotify:track:154Ada4WZXskIMnsKiy26u,spotify:artist:3Y10boYzeuFCJ4Qgp53w6o,Let's Have A Kiki,spotify:album:2P12s0AcooZGvM6mfgeuw3,230165,Magic Hour (Deluxe),Scissor Sisters
+31,morgxn,spotify:track:4I1o10KjPFASPtaFZbwFJ9,spotify:artist:034u8Qcs47NHkRQXaWkLXW,me without you,spotify:album:07hIcfKFcbsOSWpvsGslyE,218293,vital,morgxn
+32,Todrick Hall,spotify:track:3eOYEYe2VUsiOSCW53OiZv,spotify:artist:0gBvuNzrFCOVaiyKexoYMH,Wrong Bitch,spotify:album:1abVmBsdc82pIj9CQu7cN0,158222,Straight Outta Oz,"Todrick Hall, Bob the Drag Queen"
+33,Perfume Genius,spotify:track:52WTLETEHs5jwCr7LCq0VW,spotify:artist:2ueoLVCXQ948OfhVvAy3Nn,Queen,spotify:album:28FxHb9OJRzAch4DwUUsaT,230719,Too Bright,Perfume Genius
+34,Ricky Martin,spotify:track:0Ph6L4l8dYUuXFmb71Ajnd,spotify:artist:7slfeZO9LsJbWgpkIoXBUJ,Livin' la Vida Loca,spotify:album:1k1Cr3nlJDa8pvwZUJ5xfj,243160,Ricky Martin,Ricky Martin
+35,Rob Halford,spotify:track:55PV263YZXsyel112pUSus,spotify:artist:7CTjkl9M3enzBBfm1u10Sy,Into the Pit,spotify:album:7auGe292qh4AdxxcHP1cYc,258066,The Essential Rob Halford,"Rob Halford, Fight"
+36,Benjamin Gibbard,spotify:track:2AjsMkPcC7mCs5F2E00taI,spotify:artist:4CvZd3qzC2HbLxAoAEBRIL,And I Love Him,spotify:album:1Roqqh9z76dk77g98fiR2E,162933,Universal Love - Wedding Songs Reimagined,Benjamin Gibbard
+37,Sam Smith,spotify:track:0TdKJnJqeONlGZpfI1Wn93,spotify:artist:2wY79sveU1sp5g7SokKOiI,HIM,spotify:album:3XftSbguntyRTBQaGItmfK,190087,The Thrill Of It All (Special Edition),Sam Smith
+38,Tom Goss,spotify:track:0GxoJnPp5dsEPsRJYNfkA0,spotify:artist:1zLAXcROEhMZL9IhVu5Vvh,You and I (Against the World),spotify:album:3PBeTKsxF3idVPTsFUTJaY,240426,Lost Songs and Underdogs,Tom Goss
+39,Joey Graceffa,spotify:track:5sBdbAZ2a2LJ775CsbkM2h,spotify:artist:50zhmSD9wi3LHamXKx8A2W,Don't Wait,spotify:album:7vynUmVpp3L0DIcLKAIOXO,205624,Don't Wait,Joey Graceffa
+40,jesse saint john,spotify:track:76y30KySh3KiupEIi1SgVM,spotify:artist:7wTIHB7Udnj65nMz4R5bj9,MOVE,spotify:album:2dxZqZnhMn7K8ukYBqucDp,151728,MOVE,jesse saint john
+41,Trevi Moran,spotify:track:1MEmb7n1ZB73kCRcYRFg4i,spotify:artist:2mMuXvJVBA9Ft34x9WYpP2,Sinner,spotify:album:3KrRy9Oo1aF593LZqaJGLF,225306,Sinner,Trevi Moran
+42,PWR BTTM,spotify:track:6shhReGKYdzCXtXxCIc1dF,spotify:artist:5712BvYQ5m5Wcah576OFH4,I Wanna Boi,spotify:album:3FrmJL0ehkWgUM2qVXfT2h,122972,Ugly Cherries,PWR BTTM
+43,Geo Louis,spotify:track:6mGPEWerSOpuPaV0ngZOAP,spotify:artist:6i8FXSvzOusj0ZrMtX8Cif,Him,spotify:album:2AZQ50htG3veYXaqNlXLbi,223139,Him,Geo Louis
+44,Frank Ocean,spotify:track:7DfFc7a6Rwfi3YQMRbDMau,spotify:artist:2h93pZq0e7k5yf4dywlkpM,Thinkin Bout You,spotify:album:392p3shh2jkxUxY2VHvlH8,200746,channel ORANGE,Frank Ocean
+45,Keiynan Lonsdale,spotify:track:7aTY1ZcvGVPy8B9hqjeER5,spotify:artist:0tkkz8CmkHga4YZgSHEDVl,Kiss The Boy,spotify:album:6r99nrS4l5OKF1CD03WoNi,261547,Kiss The Boy,Keiynan Lonsdale
+46,Mykki Blanco,spotify:track:0XsCES6ZULNT2cfAuMzfp2,spotify:artist:2tSv9mEQSuNVMGr9qjYfkr,Wish You Would (feat. Princess Nokia),spotify:album:4C8Tr5NjjrfkuJgdV0sKNI,172953,Spring/Summer 2014,"Mykki Blanco, Princess Nokia"
+47,Big Freedia,spotify:track:1nMTBjKdCNPQoZdxsxzTLE,spotify:artist:2gyv1akuIB9fQvXoGSPaJr,Booty-Whop,spotify:album:0e6OBPayhe2ljUVUk2T3Py,218252,Booty-Whop,Big Freedia
+48,KAYTRANADA,spotify:track:33pDmPx2pkJ7JCAQpRDQ9B,spotify:artist:6qgnBH6iDM91ipVXv28OMu,GLOWED UP,spotify:album:1dZZh7PvVgce1DDsDPzy8Z,298026,99.9%,"KAYTRANADA, Anderson .Paak"
+49,Left at London,spotify:track:3k1xI9HUi76EEhKkWxYtbe,spotify:artist:3xPCFC8f7U3raEXOXQ3MrE,I DONT TRUST U ANYMORE,spotify:album:64h5qsiQY7u3uk4vp5aexa,151562,I DONT TRUST U ANYMORE,Left at London
+50,Kalifa,spotify:track:6rVDRQphQlrdylUGMh7FaH,spotify:artist:0e53LR6d2xTKZz9om9ZGyO,Hey,spotify:album:1v8Py9AQuLOfJTzKsTtHy8,202557,Hey,Kalifa
+51,Grizzly Bear,spotify:track:0iTpQYzJnYgh7kIxyq8A2O,spotify:artist:2Jv5eshHtLycR6R8KQCdc4,Two Weeks,spotify:album:6FIFqclBriPCb0SjWDaHIk,243160,Veckatimest,Grizzly Bear
+52,Superfruit,spotify:track:6zJznQATy5aYSduaMgHIxA,spotify:artist:50VoYemccTaftNfFqWtlXd,Heartthrob,spotify:album:0Nq4Sve58GRDINSpbFMyz6,178946,Future Friends,Superfruit
+53,Xiu Xiu,spotify:track:4bAKDSZrZhnyVu3IcjAYLF,spotify:artist:5JLqvjW3Nyom2OsRUyFsS9,I Luv the Valley OH!,spotify:album:0QvaodKwwxgNZDxkmafO1w,179133,Fabulous Muscles,Xiu Xiu
+54,Calum Scott,spotify:track:4yFsOEAtQXXyi0iK9VHjOp,spotify:artist:6ydoSd3N2mwgwBHtF6K7eX,Dancing On My Own,spotify:album:7svCjsI5rs6xm58d82z5Pl,260285,Only Human (Deluxe),Calum Scott
+55,Cakes da Killa,spotify:track:1RsMNYWrNLEP28BHIMsoK9,spotify:artist:6MoQZOH2KnQrJhVtO9VoXC,Gon Blow (feat. Rye Rye),spotify:album:6Od4fzT5IooQiJhnfkfD02,215727,Hedonism,Cakes da Killa
+56,Owen Pallett,spotify:track:03zkV1n3YFxKdSN4DxuOjy,spotify:artist:77Rj6PHmQJFb8nbSH62y68,Lewis Takes Off His Shirt,spotify:album:10CBKFjUjk1VxnY304125O,308480,Heartland,Owen Pallett
+57,Anye Elite,spotify:track:4rd5odNUtqDt9VcvQ9raw0,spotify:artist:5lznL4YxKi4520fRnNm7n9,No Faux,spotify:album:3BaozVOmr8J4MTFcMRoZHC,192940,No Faux,Anye Elite
+58,Abdu Ali,spotify:track:2RlVJ3xzpcoKUBdEq1Kbfq,spotify:artist:1sCfVwDw9jhng9PUMNcqlo,Chastity,spotify:album:0NcfRGpK7exvrTi3SdUY1z,234000,Chastity,Abdu Ali
+59,Chris Garneau,spotify:track:7qyjBsueqlRQq3WstuxfiC,spotify:artist:6N6oxcjNigJQq0RWeC49Rg,Between the Bars,spotify:album:659TApNaySiUmoXd8qBoJS,185626,C-Sides,Chris Garneau
+60,Bloc Party,spotify:track:2PAhcPwab2sJz340QHtunD,spotify:artist:3MM8mtgFzaEJsqbjZBSsHJ,This Modern Love,spotify:album:0urhQCsjpczjC8zbTMtd8t,265706,Silent Alarm,Bloc Party
+61,Years & Years,spotify:track:1oTPwGPqIRkJeTYAMmXF2W,spotify:artist:5vBSrE1xujD2FXYRarbAXc,Desire,spotify:album:7BZ81dThqcxbFTXKY36Oek,206773,Communion,Years & Years
+62,Pansy Division,spotify:track:7Gjze5dPQjujzoHGOQReWT,spotify:artist:5OyEfwMlXpCWU8dWVENGgm,Fem in a Black Leather Jacket,spotify:album:3FQM6XQYuV0CMKzs1jTTBF,124316,Undressed,Pansy Division
+63,Jeffree Star,spotify:track:2fcI0o9CkhBdOWcfGP38El,spotify:artist:0ZVqyfTk5GaaRiQNQaW9jg,Get Away With Murder,spotify:album:1IEp1xslZyXrQzK3IRj8Bm,222706,Beauty Killer,Jeffree Star
+64,MIKA,spotify:track:6wCO5ogfiksJRDpYysqhKE,spotify:artist:5MmVJVhhYKQ86izuGHzJYA,Good Guys,spotify:album:6zVIADLuIrdkiChta3XiSo,203480,No Place In Heaven,MIKA
+65,Village People,spotify:track:3ypMsqUwfNFMiooMLVHfkp,spotify:artist:0dCKce6tJJdHvlWnDMwzPW,YMCA,spotify:album:4oIOg6AgN5cTIQPk00RAWS,202573,Can't Stop the Music (Original Soundtrack 1980),Village People
+66,Vardaan Arora,spotify:track:3QWkLrNoZX1Kze2uwpZl8I,spotify:artist:5W2Oohe20LNWXAqq5aOaP2,What If,spotify:album:3FTy3iS7E2tccOR8Y1hNIz,206609,What If,Vardaan Arora
+67,whatever mike,spotify:track:0d16jLB3r6nJlxmYFJGGbr,spotify:artist:5BhvG9bggFHpnuUkl5SnKw,R U Mad,spotify:album:7MFJzsXDKYX7sUBjZHJt3M,155077,R U Mad,whatever mike
+68,Solomon Ray,spotify:track:7oRehVEscTe3bd9rN6f2f1,spotify:artist:6bSsC4nmXp8XTMbTO4CnkV,Así Así,spotify:album:2qDKkh1g4CmOJUGyGt1gQr,217800,Así Así,Solomon Ray
+69,Wham!,spotify:track:0ikz6tENMONtK6qGkOrU3c,spotify:artist:5lpH0xAS4fVfLkACg9DAuM,Wake Me Up Before You Go-Go,spotify:album:02f3y3NTsddjdUMoNiBppI,231333,Make It Big,Wham!
+70,Culture Club,spotify:track:1I6q6nwNjNgik1Qe8Oi0Y7,spotify:artist:6kz53iCdBSqhQCZ21CoLcc,Do You Really Want To Hurt Me,spotify:album:4y1hBzoffx9DaGXbObeC2w,262173,Kissing To Be Clever,Culture Club
+71,Solo,spotify:track:788aTAxOROOTwsappixnbv,spotify:artist:5E5QWi6shjVx5yOFa0t7Gx,Hit Me With A Kiss,spotify:album:7dhacE5821DPJ9OtIT5sDM,218080,Songs 'N Sounds,Solo
+72,Patrick Wolf,spotify:track:4ejutbOF6Ksm9QKj8u0O2j,spotify:artist:6s92YZUPkTK1HL1WIGrPKE,House,spotify:album:2flDVPf3Zo7igod40wQNlk,198973,Sundark and Riverlight,Patrick Wolf
+73,Sylvester,spotify:track:3j1fs2X0ibiihnM4Fd4A2D,spotify:artist:5TGTpu4g8siFOIctZuQO7y,You Make Me Feel (Mighty Real),spotify:album:0yltJZ7nTGw97P0Fm7VhX8,395573,Step II,Sylvester
+74,Bleachers,spotify:track:4xYzcWOLM685vCa5AkJXe9,spotify:artist:2eam0iDomRHGBypaDQLwWI,Alfie's Song (Not So Typical Love Song),spotify:album:7mxEr6CfzmRQN3c7PoAQIP,181078,Alfie's Song (Not So Typical Love Song),Bleachers
+75,Lex Allen,spotify:track:6Fcbxir33raTejFj909F77,spotify:artist:7atE55vExM4e6UD6ZqpqMa,Bitch U Fabulous,spotify:album:3ZZvR0UIyib6ncOiWHuwCB,186000,Table 7: Sinners & Saints,Lex Allen
+76,Hercules & Love Affair,spotify:track:0AzqLBEmqqc7LpGbC2wLG9,spotify:artist:1WHoAjAWGx5qLsgzpaOk7W,I Try To Talk To You,spotify:album:7nzzw3jQeC2X1k9BdDI0Th,249839,The Feast Of The Broken Heart,"Hercules & Love Affair, John Grant"
+77,Adam Joseph,spotify:track:7rEANZC972dKQoM1OjZz2d,spotify:artist:2Dymd4r1i4EfE8iooyCi1L,Linda Evangelista (feat. Aja),spotify:album:2CAcUQnQMU4x8lqH3vdd3a,196875,Linda Evangelista,"Adam Joseph, Aja"
+78,Will Young,spotify:track:3ncFFKyZYIfiWNaOqvSUKz,spotify:artist:2U6gqwyl9F33YxawnFrZG7,Light My Fire,spotify:album:6cX5XwYMwa4AoYC6Eyy25j,209826,From Now On,Will Young
+79,Vampire Weekend,spotify:track:5dKBaysNJtfpyNTRa5lqDb,spotify:artist:5BvJzeQpmsdsFp4HGUYUEx,A-Punk,spotify:album:5oXBmKbyJeQftWMo87cQ9F,137760,Vampire Weekend,Vampire Weekend
+80,Ty Herndon,spotify:track:5am4DKPeHi3aLPzEtqPBAZ,spotify:artist:1Fj0R2t4HaJa3oUe8azB8R,What Mattered Most,spotify:album:6JaWECEWqHuJzq0ir3HL30,220866,This Is Ty Herndon: Greatest Hits,Ty Herndon
+81,Erasure,spotify:track:2RVQIq7bLi4Eu6xHPyQ46t,spotify:artist:0z5DFXmhT4ZNzWElsM7V89,A Little Respect,spotify:album:7BS88XlHgbYq4bEnO6sICd,213373,The Innocents,Erasure
+82,Eli Lieb,spotify:track:4NWGK3Shpzn6xy8y413taO,spotify:artist:2SLFbFpW4nXuc76m37gTfy,Safe in My Hands,spotify:album:17sIiwi6n87jCKk8mEO20T,201355,Safe in My Hands,Eli Lieb
+83,Lil Peep,spotify:track:7hf89cT5FEmLV5E9fjrjG7,spotify:artist:2kCcBybjl3SAtIcwdWpUe3,beamer boy,spotify:album:69nnJOr40uKMOFvB1sSKLp,203373,beamer boy,"Lil Peep, Nedarb"
+84,Sebastian Castro,spotify:track:2LiHG9iCXfu3BwvDxCZrpL,spotify:artist:6ZzH0oXkfj1TLWO8pDrkWi,You're Gay,spotify:album:07RREvtvQaa32GyvvSPPCh,189936,S.E.B.,Sebastian Castro
+85,Wrabel,spotify:track:3vHTlIT5uIilAFf6Cy69tr,spotify:artist:7r2uG6BlFXKcwmh9ItqlII,Bloodstain,spotify:album:3zRgSbaggJiEhh8IeZtAfG,168093,Bloodstain,Wrabel
+86,Dead Or Alive,spotify:track:0BB9eUBBaaX6GALSYNcEp7,spotify:artist:5WWSL6rElJeUk3Uc1S2RyD,You Spin Me Round (Like a Record),spotify:album:0HEKWtu7St3tKgZDKZsX90,196800,Youthquake,Dead Or Alive
+87,Jake Shears,spotify:track:0yQZ4BDiqzrMIlypQqkHRa,spotify:artist:6prqlx3RqGdTYsXANXDCR1,Creep City,spotify:album:5llyvamnmMUvWePjTxQPM5,205186,Creep City,Jake Shears
+88,Rainbow Kitten Surprise,spotify:track:0ZAbupc7jAQpG9IxojQ3s3,spotify:artist:4hz8tIajF2INpgM0qzPJz2,Cocaine Jesus,spotify:album:2aaWMtuGxw17AZpKhZGdXQ,229666,RKS,Rainbow Kitten Surprise
+89,Ten Ven,spotify:track:5mwd7PvG7Q3sBBv85FIAVO,spotify:artist:0ZSLz27xUnI816MMtYfLMI,1 Bad Bitch,spotify:album:4miR8VuZxBISHa6WjrZwNE,301950,1 Bad Bitch (Ten Ven & Ripley Vs. Zebra Katz),"Ten Ven, Ripley, Zebra Katz"
+90,MRSHLL,spotify:track:36YtYKhuTSPwitgehk8f8G,spotify:artist:0seQaFC4HsYcxj5o27Ls45,COME OVER,spotify:album:5Hke2HhBqfrLagtC72bOFN,260000,breathe,"MRSHLL, pH-1"
+91,Who Is Fancy,spotify:track:2xSExwwFXzukzOdR6iVYMk,spotify:artist:5QSx2vpiSchSeCwc0qmfNI,Boys Like You,spotify:album:23O8NRd6IvGYh0vutNEHtT,194533,Boys Like You,"Who Is Fancy, Meghan Trainor, Ariana Grande"
+92,Tyler Glenn,spotify:track:4fTS0P8uM3Tn2WBkU57M7l,spotify:artist:5XCujjq919BFXTnjyyDpiE,Trash,spotify:album:6Wy2fOHFH90riocdTcRtkq,215520,Excommunication,Tyler Glenn
+93,CSS,spotify:track:7FmngwBTy8EYg7Jp7fRD5p,spotify:artist:2K13AVg3bFpHSxDM1vJ0qA,City Grrrl,spotify:album:2399wtgmT74ZEsMfyJTjKX,264373,La Liberación,"CSS, Ssion"
+94,Sam Vance-Law,spotify:track:6TAY6u01ro1efYGh7xOmyR,spotify:artist:2M5w5QrYTg2yiuURwaQLEF,Prettyboy,spotify:album:2JwsiJGdLkphNmturxAcQS,298106,Homotopia,Sam Vance-Law
+95,Doug Locke,spotify:track:4DeVJgjmcYsD23KzOkfgTA,spotify:artist:2F633vOMnlOtx8cIYh0f5G,#ThisCouldBeUs,spotify:album:2219CR6sDF4ydoJzuQJHTq,209684,#ThisCouldBeUs,Doug Locke
+96,Brendan Maclean,spotify:track:1V59IszS3oRC9nt46jhJey,spotify:artist:7bFb3qT35kK9wSeZZ7pwCj,The Feeling Again,spotify:album:5xwYrFhPtiLfSQAY1fjHdv,253466,Thought I'd Cry for You Forever,Brendan Maclean
+97,Lavender Country,spotify:track:1jbApNPzkuo1U0ZaZZ7Tb9,spotify:artist:3UAkA4R9JwTDsWSvtKqJtP,Back in the Closet Again,spotify:album:50DlqQtKUTx7zv4RHbCk7R,213208,Lavender Country,Lavender Country
+98,Kidd Kenn,spotify:track:5XUJ4DIZNBu77aq19kSsQv,spotify:artist:5dkb0qOeUicNVLZKRGG92m,Fake Shit,spotify:album:4cSpFD8ANreLAHuDA8yiE4,214047,Fake Shit,Kidd Kenn
+99,Lyon Hart,spotify:track:0uU2ytjUEk7LNZYvfR6GlG,spotify:artist:0ONZl6KXUDfebeJILKj42o,Falling for You,spotify:album:59Ep17VnV131bWMxqsZ6Ns,205401,Falling for You,Lyon Hart
+100,LEOPOLD,spotify:track:5SovbUuzIAB6eVStOWYUNA,spotify:artist:2HitUvk40lssir4iFwElKb,Warning Signs,spotify:album:3eNvRPOCWjaY4v076UOx3S,178157,Warning Signs,LEOPOLD
+101,LEOPOLD,spotify:track:7onnVaTTV6Qsp2C8pZIx5c,spotify:artist:2HitUvk40lssir4iFwElKb,Breathe Out,spotify:album:7KRiBVBRGF7j12o8gnY2Em,166666,Breathe Out,LEOPOLD
+102,Lady Gaga,spotify:track:24ySl2hOPGCDcxBxFIqWBu,spotify:artist:1HY2Jd0NmPuamShAr6KMms,Rain On Me (with Ariana Grande),spotify:album:4TqgXMSSTwP3RCo3MMSR6t,182200,Rain On Me (with Ariana Grande),"Lady Gaga, Ariana Grande"
+103,Lil Nas X,spotify:track:67BtfxlNbhBmCDR2L2l8qd,spotify:artist:7jVv8c5Fj3E9VhNjxT4snq,MONTERO (Call Me By Your Name),spotify:album:2Hjcfw8zHN4dJDZJGOzLd6,137875,MONTERO (Call Me By Your Name),Lil Nas X
+104,MKSM,spotify:track:0VzyUZi9jb8Ytj0l3HsWBM,spotify:artist:6PrTFzpmEtnqnQzmIYcWjN,Shared Room,spotify:album:6gai3NOHqLyTHFKoyWLrfJ,185850,Shared Room,MKSM
+105,LEOPOLD,spotify:track:5pqgylYeVxCxAarBkBOttq,spotify:artist:2HitUvk40lssir4iFwElKb,Pink Rebel,spotify:album:5WR0PN6MdaqXoENoyeAiHS,146233,Pink Rebel,LEOPOLD
+106,Lady Gaga,spotify:track:30XU4suKzCeoCK9YFzdufg,spotify:artist:1HY2Jd0NmPuamShAr6KMms,Born This Way,spotify:album:6LY3AerY6KNGOPsNPL63Kk,260253,Born This Way (International Special Edition Version),Lady Gaga
+107,Adam Lambert,spotify:track:44aN5xKL3kGHvQ5bXVk6B8,spotify:artist:6prmLEyn4LfHlD9NnXWlf7,Ghost Town,spotify:album:3kaQUt8Mp906u1fI0LDqO6,208330,The Original High (Deluxe Version),Adam Lambert
+108,LEOPOLD,spotify:track:3FzV60mFMH02pa8Gfg8Emd,spotify:artist:2HitUvk40lssir4iFwElKb,Dehydrated,spotify:album:5rcDCjSZlOf80h9DvxkF3s,180509,Dehydrated,LEOPOLD
+109,Andrea Di Giovanni,spotify:track:03sF5nz2cgAYgShbKzNX4N,spotify:artist:6LgSivOZVfHs4mY4TYobQa,Stand Up,spotify:album:6U1eVsjapj48GoDrP7e9TN,171083,Stand Up,Andrea Di Giovanni
+110,Lizzo,spotify:track:3Yh9lZcWyKrK9GjbhuS0hR,spotify:artist:56oDRnqbIiwx4mymNEv7dS,Good as Hell,spotify:album:4CA8GvVF7swZafg0zYh9qq,159735,Good as Hell,Lizzo
+111,Kim Petras,spotify:track:31k41EAntOsjbRBcAASfiL,spotify:artist:3Xt3RrJMFv5SZkCfUE8C1J,Malibu,spotify:album:7AiqBnEFt4gCA9XpKUoZRl,191808,Malibu,Kim Petras
+112,LEOPOLD,spotify:track:6yfjJmCGTfLYtlNr2zUlfb,spotify:artist:2HitUvk40lssir4iFwElKb,Paradise,spotify:album:4RKhyMwEe5W3E3zeEaz5Dn,218142,Paradise,LEOPOLD
+113,Todrick Hall,spotify:track:0nzsxcMmkFwfLB8IJ6Ok9g,spotify:artist:0gBvuNzrFCOVaiyKexoYMH,"Nails, Hair, Hips, Heels",spotify:album:35sdN1DEfjFcOATBtQwHxt,236190,"Haus Party, Pt. 1",Todrick Hall
+114,Ceréna,spotify:track:5nwLNgUGgBsBE4en888WIV,spotify:artist:6jdYcGAF6rLHIf1uc21w37,hearts on fire,spotify:album:6KA4tzrQUIeOZVBhyK2s24,217401,hearts on fire,Ceréna
+115,Kesha,spotify:track:14wPnCr1Z8CIHBVpnpcTVt,spotify:artist:6LqNN22kT3074XbTVUrhzX,Raising Hell (feat. Big Freedia),spotify:album:4HZ195qaMlhiKebUtF36ni,169693,High Road,"Kesha, Big Freedia"
+116,cupcakKe,spotify:track:0lsw4q8Jei7gEoV7kFe3DS,spotify:artist:76SlrtEaq2oViRXulxjfuM,Lgbt,spotify:album:0Gg0Pn44Sh7FYtBDzgc5CF,161332,Audacious,cupcakKe
+117,LEOPOLD,spotify:track:5jVttlApEIi5HVEPEM1Ili,spotify:artist:2HitUvk40lssir4iFwElKb,Girlfriend,spotify:album:6d9uOUh0NovAyxUbyZ2i4Z,152891,Girlfriend,LEOPOLD
+118,Planningtorock,spotify:track:2WG1viSIDuppYqxCDjfq7n,spotify:artist:7qHOphlWaJrfFa0BqpayDG,Let's Talk About Gender Baby,spotify:album:0Cc7BlKV0vZnGPx0fAFqY7,261086,All Love's Legal,Planningtorock
+119,MKSM,spotify:track:5kKhCAkN5POJlOT02AgS4b,spotify:artist:6PrTFzpmEtnqnQzmIYcWjN,Be Alright,spotify:album:6k5KQUeYyFv5VJfJ7IaNqs,189233,Be Alright,MKSM
+120,Adore Delano,spotify:track:3OJ34PxLlQZX8l6Ku0tyTF,spotify:artist:3tdsh4B7GuigHI4vPtUs87,I Adore U,spotify:album:1fjGYWLyDPItMHLbu2QMeQ,222833,Till Death Do Us Party,Adore Delano
+121,Pabllo Vittar,spotify:track:5GsJcnO3rgpZFOrzL2EISO,spotify:artist:6tzRZ39aZlNqlUzQlkuhDV,Flash Pose,spotify:album:7a8LBp4khqUFgSc4j8tVgN,152932,Flash Pose,"Pabllo Vittar, Charli XCX"
+122,Beyoncé,spotify:track:1uXbwHHfgsXcUKfSZw5ZJ0,spotify:artist:6vWDO969PvNqNYHIOW5v0m,Run the World (Girls),spotify:album:1gIC63gC3B7o7FfpPACZQJ,236093,4,Beyoncé
+123,Janelle Monáe,spotify:track:5gW5dSy3vXJxgzma4rQuzH,spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,Make Me Feel,spotify:album:2PjlaxlMunGOUvcRzlTbtE,194230,Dirty Computer,Janelle Monáe
+124,LEOPOLD,spotify:track:6K2xbGNo6xDXIQUIBcLfuq,spotify:artist:2HitUvk40lssir4iFwElKb,GMSTL,spotify:album:4DCNQLSJi1vB3P8CY6fRCW,213429,All I See,LEOPOLD
+125,Gloria Gaynor,spotify:track:4xmjDH6auBwuZ4GHimjXGe,spotify:artist:6V6WCgi7waF55bJmylC4H5,I Will Survive - Single Version,spotify:album:2wV72iMZZu677uYCw2giDC,197573,Colour Collection,Gloria Gaynor
+126,MKSM,spotify:track:1tRGluAnOJhgrMIXr8yrv9,spotify:artist:6PrTFzpmEtnqnQzmIYcWjN,Chosen Family,spotify:album:7sxkWgpW53C2yX2sU7iPb1,189904,Chosen Family,MKSM
+127,Chaka Khan,spotify:track:1oFiPGBafH9Woo9AMwgBSl,spotify:artist:6mQfAAqZGBzIfrmlZCeaYT,I'm Every Woman,spotify:album:2lvaLIoEg3hwL2dybu6zTC,249600,Chaka,Chaka Khan
+128,Melanie C,spotify:track:2bgpF7aLazrxM7YMHdvYOX,spotify:artist:60vX3zLcdKRXvKLITVh5Df,Who I Am,spotify:album:5dtw6GtbfpZ6pCyLWTHhTa,212419,Who I Am,Melanie C
+129,Casey MQ,spotify:track:6Td3TgDprTXpigowgTgp0J,spotify:artist:2LCeCCDzbmCOqnV33eB3q8,Candyboy,spotify:album:4YyCBg1Ja24pptWBoatVlH,202026,babycasey,Casey MQ
+130,LEOPOLD,spotify:track:4KWOWTEbBdyICmaDbYWv8y,spotify:artist:2HitUvk40lssir4iFwElKb,All I See,spotify:album:4DCNQLSJi1vB3P8CY6fRCW,204584,All I See,LEOPOLD
+131,Sam Smith,spotify:track:1fipvP2zmef6vN2IwXfJhY,spotify:artist:2wY79sveU1sp5g7SokKOiI,I’m Ready (with Demi Lovato),spotify:album:44msshHeN6irJ1md7GVSlU,200838,I’m Ready (with Demi Lovato),"Sam Smith, Demi Lovato"
+132,Planningtorock,spotify:track:6XN90Gm9t5YKpvlmrJn11G,spotify:artist:7qHOphlWaJrfFa0BqpayDG,Much to Touch,spotify:album:7b6alDTeGmsWxmcLOBC9j3,282498,Powerhouse,Planningtorock
+133,jaako,spotify:track:3NfY0u2EG8xnBlvJl3vthW,spotify:artist:50z9rmfaP5jMniImSDur7N,want your lies,spotify:album:3kuXi8b8DfnWt2FCizksSZ,129504,want your lies,"jaako, Beni Fahr"
+134,Mykki Blanco,spotify:track:51FNfc26Vj9R7J1mCospQ3,spotify:artist:2tSv9mEQSuNVMGr9qjYfkr,Wish You Would,spotify:album:1yE95lst5ODh8lMBSMlbl0,172953,Spring​/​Summer 2014,"Mykki Blanco, Princess Nokia"
+135,Dorian Electra,spotify:track:4C9DiRUDbryWo0FRjozaoo,spotify:artist:202HZzqKvPsMHcbwnDZx7u,Man To Man,spotify:album:4svcCm5yRZtKE0tXn4n1cn,197757,Flamboyant,Dorian Electra
+136,RuPaul,spotify:track:40fX0BlY8HRW9vtzFuKutC,spotify:artist:2SdOKxC1sSxEyv8JYERaNe,"Read U Wrote U (Ellis Miah Mix) [feat. The Cast of RuPaul's Drag Race All Stars, Season 2]",spotify:album:2oV9XhduLLzxul02gwQ2be,322155,"Read U Wrote U (Ellis Miah Mix) [feat. The Cast of RuPaul's Drag Race All Stars, Season 2]","RuPaul, The Cast of RuPaul's Drag Race All Stars, Season 2"
+137,Cakes da Killa,spotify:track:5XTHtGlwtzGYK1D3gGnW4m,spotify:artist:6MoQZOH2KnQrJhVtO9VoXC,New Phone (Who Dis),spotify:album:6Od4fzT5IooQiJhnfkfD02,214213,Hedonism,Cakes da Killa
+138,Mavi Phoenix,spotify:track:2aiPNEszBHHmdNhwe0SCxF,spotify:artist:0Lt05xaSe2ACmAiSkIdcSm,Romantic Mode,spotify:album:0w4QpAcUNsnrvDegFcZQJ5,153641,Romantic Mode,Mavi Phoenix
+139,LEOPOLD,spotify:track:2inqQSEmM3eh27QoTDo0B9,spotify:artist:2HitUvk40lssir4iFwElKb,Letter,spotify:album:4pNyFDeJ5CynVMjf5tIDDb,161988,Letter,LEOPOLD
+140,Adore Delano,spotify:track:1aOZJX21RtBjHft7ziyGN2,spotify:artist:3tdsh4B7GuigHI4vPtUs87,I Look Fuckin Cool,spotify:album:5pvC99rDKiQjTQno7PtnpL,232359,Till Death Do Us Party,"Adore Delano, Alaska Thunderfuck"
+141,NVDES,spotify:track:6OkXuvyW9lZ2yKLRPeHzCP,spotify:artist:5L6tkH3jDmFBX9dYdFFQXy,D.Y.T. (Do Your Thing),spotify:album:4RVyEpIxyJyadEMiJWVyC6,175417,D.Y.T. (Do Your Thing),"NVDES, REMMI"
+142,Calvin Harris,spotify:track:5N5k9nd479b1xpDZ4usjrg,spotify:artist:7CajNmpbOovFoOoasH2HaY,Promises (with Sam Smith),spotify:album:2tpWgbBdzjkaJVJzR4T8y1,213309,Promises (with Sam Smith),"Calvin Harris, Sam Smith, Jessie Reyez"
+143,Tokio Hotel,spotify:track:3YISnCr0jpI5MFgrErJid5,spotify:artist:46aNfN89JrOQTCy97GoCHa,Melancholic Paradise,spotify:album:76txjxyeKzKNXzZ4CUU4Co,195339,Melancholic Paradise,Tokio Hotel
+144,MKSM,spotify:track:2YuDDtVuAyQ46fEmPy6XDw,spotify:artist:6PrTFzpmEtnqnQzmIYcWjN,Sirens,spotify:album:0WE4RgA49ILk8uyCO7j4r5,175210,Sirens,MKSM
+145,Dua Lipa,spotify:track:7JSH9jmLF2BfoZmYlQq5I0,spotify:artist:6M2wZ9GZgrQXHCFfjv46we,Physical,spotify:album:5SWCH8JoA3iIsDGQxKEJ2Q,193829,Future Nostalgia,Dua Lipa
+146,Netta,spotify:track:6n2eIfLj0wOOUkUfNmYzlh,spotify:artist:4Z4afeDmHFxPmJorIwupbZ,Toy,spotify:album:21YEfZ84TzdjNvOWEdwjeF,180230,Toy,Netta
+147,LEOPOLD,spotify:track:6HspXltwPsVKoKqwCtaveV,spotify:artist:2HitUvk40lssir4iFwElKb,This,spotify:album:1UcxZFDAAe3xaold9XC6ue,218806,This,LEOPOLD
+148,Queen,spotify:track:7hQJA50XrCWABAu5v6QZ4i,spotify:artist:1dfeR4HaWDbWqFHLkxsg1d,Don't Stop Me Now - Remastered 2011,spotify:album:21HMAUrbbYSj9NiPPlGumy,209413,Jazz (Deluxe Remastered Version),Queen
+149,Macklemore & Ryan Lewis,spotify:track:01uqI4H13Gsd8Lyl1EYd8H,spotify:artist:5BcAKTbp20cv7tC5VqPFoC,Same Love (feat. Mary Lambert),spotify:album:76FXHQhTuT4QMIxfL09gX8,318525,The Heist,"Macklemore & Ryan Lewis, Macklemore, Ryan Lewis, Mary Lambert"
+150,Sam Vance-Law,spotify:track:5xc6u9hkln81Q9U14Z05Os,spotify:artist:2M5w5QrYTg2yiuURwaQLEF,Gayby,spotify:album:1IyYWLHyzOGOpav1iN2RRC,174546,Gayby,Sam Vance-Law
+151,Hercules & Love Affair,spotify:track:2acK24b60RQD2zBpW0Zsrw,spotify:artist:1WHoAjAWGx5qLsgzpaOk7W,Blind - Radio Edit,spotify:album:4vdHNQcsvi2eUFjxrEXoig,345560,Blind,Hercules & Love Affair
+152,RuPaul,spotify:track:5PHPENfE3RVmHGAA2A7Hfx,spotify:artist:2SdOKxC1sSxEyv8JYERaNe,Sissy That Walk,spotify:album:3stAjHtCDSCavGtkxzvYE7,212693,Born Naked,RuPaul
+153,Kalifa,spotify:track:31WIkt099num18R8nsQhZv,spotify:artist:0e53LR6d2xTKZz9om9ZGyO,Wut,spotify:album:1v8Py9AQuLOfJTzKsTtHy8,167488,Hey,Kalifa
+154,Hervé,spotify:track:2UwCXCPetkLgqDSeTKuQGx,spotify:artist:0lmpSjaPzC8ChqeFQ6Z3VS,Tear The House Up,spotify:album:7qjBgBbKTKiClcmpiKvgVf,280645,Tear The House Up,"Hervé, Zebra Katz"
+155,Mykki Blanco,spotify:track:6Agn2NBxm4oRnrz0vHX3Qg,spotify:artist:2tSv9mEQSuNVMGr9qjYfkr,Loner,spotify:album:4cntQBhZNC6JbyvSGGn80t,206441,Mykki,"Mykki Blanco, Jean Deaux"
+156,Electric Six,spotify:track:1bs2kmXeGoo8HEQaNDL1sT,spotify:artist:4xNadaO5ZZLVJdqDIVVIua,Gay Bar,spotify:album:2FgBWLd3fYCdXIXMVGEBXa,140906,Fire,Electric Six
+157,Xiu Xiu,spotify:track:3ImzhtcIFK8sASVZwjQkiX,spotify:artist:5JLqvjW3Nyom2OsRUyFsS9,The Call,spotify:album:38iPetlNFRLKvHthQrd30Q,197247,Forget,Xiu Xiu
+158,Neon Trees,spotify:track:6fFuOXIrVHUmSI8IM889wa,spotify:artist:0RpddSzUHfncUWNJXKOsjy,Sleeping With A Friend,spotify:album:0GWiQsYkFersPWJ0I3ZNUC,228840,Pop Psychology,Neon Trees
+159,Greg Gould,spotify:track:5JT3OqAEbLy0iq7Hktxphq,spotify:artist:7scMWGksw0YUGUVuewfyJo,Euphoria,spotify:album:70DOBhfLCpaYNxZBpTM9rw,230857,Don't Let Go - EP,Greg Gould
+160,Conchita Wurst,spotify:track:1ijX03QOR6a1wI322HifSV,spotify:artist:1TGdxJ3UvFq055SVjwx49v,Rise Like a Phoenix,spotify:album:3Fpq5QWmRxZtEE8h8bm04S,183000,Conchita,Conchita Wurst
+161,Troye Sivan,spotify:track:0nhBKubnVz9yFNNprBniWz,spotify:artist:3WGpXCj9YhhfX11TToZcXP,YOUTH,spotify:album:2mRBvhDWqm8Fj2U0F6mMY4,185194,Blue Neighbourhood (Deluxe),Troye Sivan
+162,Lowell,spotify:track:3PCz2lbL3Lkkf1QgSpPjyl,spotify:artist:3MJ2o2vTovueQARKmOzHls,The Bells,spotify:album:1LswDjzBZcPXHxvbTz0pLp,258731,We Loved Her Dearly,Lowell
+163,Perfume Genius,spotify:track:4ONbE2UQU0hiizcxR4fToc,spotify:artist:2ueoLVCXQ948OfhVvAy3Nn,Hood,spotify:album:5hjlzVCJCePW4DmMJVryla,120093,Put Your Back N 2 It,Perfume Genius
+164,Rufus Wainwright,spotify:track:7oJFq3QYPSAVPAVwXPAlQX,spotify:artist:2PfBzriIMRsCXPDtSy9vg8,Going To A Town,spotify:album:3VDFZi0MBT6kzWSniVYTIe,247013,Vibrate: The Best Of (Deluxe Edition),Rufus Wainwright
+165,Tegan and Sara,spotify:track:4dTVgHZFPlaq9nPbLVVLSG,spotify:artist:5e1BZulIiYWPRm8yogwUYH,Closer,spotify:album:5IUJ6v408Z7pECC3BXUJxX,209280,Heartthrob,Tegan and Sara
+166,Gloria Gaynor,spotify:track:4Hj9FBI1IuMVfuYMPpbf71,spotify:artist:6V6WCgi7waF55bJmylC4H5,I Am What I Am - Remastered,spotify:album:0KwI95bTOayhB4kTnCZNiH,211373,Gloria Gaynor (Remastered),Gloria Gaynor
+167,MIKA,spotify:track:7dzUZec5MnWMyQnk5klnKR,spotify:artist:5MmVJVhhYKQ86izuGHzJYA,Grace Kelly,spotify:album:4wKkXYJXQWDa9sndBSx0gI,187733,Life in Cartoon Motion,MIKA
+168,Scissor Sisters,spotify:track:0LAfANg75hYiV1IAEP3vY6,spotify:artist:3Y10boYzeuFCJ4Qgp53w6o,Take Your Mama,spotify:album:65Fllu4vQdZQOh6id0YwIM,271906,Scissor Sisters,Scissor Sisters
+169,Queen,spotify:track:6wiXLuJPmqambLyVJBg0fy,spotify:artist:1dfeR4HaWDbWqFHLkxsg1d,I Want To Break Free - Remastered 2011,spotify:album:4uuyUxFLxkU05tyu4VnA52,198773,Queen 40 Limited Edition Collector's Box Set Vol. 3,Queen
+170,foxgluvv,spotify:track:6FlmnlYOw2OhDBQudlYIGd,spotify:artist:5rHFW8GZVFuvhAjJZn8FQ1,Nothing,spotify:album:4Z3rWRHisyqDoOfg56LYpi,159400,Nothing,foxgluvv
+171,Lizzo,spotify:track:0k664IuFwVP557Gnx7RhIl,spotify:artist:56oDRnqbIiwx4mymNEv7dS,Juice,spotify:album:6dFFcYQ8VhifgdKgYY5LYL,195144,Cuz I Love You,Lizzo
+172,Conchita Wurst,spotify:track:2cwSM1wY1UMsJ8OEqkPzd1,spotify:artist:1TGdxJ3UvFq055SVjwx49v,Firestorm,spotify:album:3Fpq5QWmRxZtEE8h8bm04S,223173,Conchita,Conchita Wurst
+173,Ankathie Koi,spotify:track:5nMFOqUvVKb7hO4wOANzrl,spotify:artist:44CqVKXxjtGbtR3H1xpdNl,Cats & Diamonds,spotify:album:7DdwD48CeoDzmmuJA2TybB,206920,Prominent Libido,Ankathie Koi
+174,Kim Petras,spotify:track:2Cu5ExXidcoE4vF5hIYict,spotify:artist:3Xt3RrJMFv5SZkCfUE8C1J,Heart to Break,spotify:album:4HbNtklEO6XJv638wZ1MZg,225972,Heart to Break,Kim Petras
+175,Sam Smith,spotify:track:29MOOOmMRPeWyPwKQFoF5t,spotify:artist:2wY79sveU1sp5g7SokKOiI,I Feel Love,spotify:album:2DmVNmERvg6j9jZQbelNKu,254453,I Feel Love,Sam Smith
+176,Gabriel Louis,spotify:track:4ufytzenKUh4dJgiHY6pzd,spotify:artist:27txjrC58wyDiSgGsDcWVl,Land of Rhythm,spotify:album:4PMeilfDkZ6hJFqt2PbQeR,210000,Land of Rhythm,Gabriel Louis
+177,RuPaul,spotify:track:5PHPENfE3RVmHGAA2A7Hfx,spotify:artist:2SdOKxC1sSxEyv8JYERaNe,Sissy That Walk,spotify:album:3stAjHtCDSCavGtkxzvYE7,212693,Born Naked,RuPaul
+178,Miley Cyrus,spotify:track:2WyRfGeHo97VC5mP1BBSzr,spotify:artist:5YGY8feqx7naU7z4HrwZM6,Mother's Daughter,spotify:album:7M4YAXOOg1XbWx03jg7t62,219080,SHE IS COMING,Miley Cyrus
+179,Lady Gaga,spotify:track:1C79CxJdMHjk9RkwX04DRh,spotify:artist:1HY2Jd0NmPuamShAr6KMms,Applause,spotify:album:535qZk6ycJqQaa5qFPmq3k,212333,ARTPOP,Lady Gaga
+180,Mavi Phoenix,spotify:track:4fEVz570Nxx3yWQasFGVsh,spotify:artist:0Lt05xaSe2ACmAiSkIdcSm,Boys Toys,spotify:album:11AC4AMdDTnld1t3sS4A3W,146857,Boys Toys,Mavi Phoenix
+181,Link Lauren,spotify:track:0urB9fDMpFFLTqNiZWilzv,spotify:artist:6zN8SfYK7CaitT1XrHOhIN,I Love It When Hot Guys Cry,spotify:album:4YtHjpDM2I4uynQrNO9fWz,209733,I Love It When Hot Guys Cry,Link Lauren
+182,Dua Lipa,spotify:track:7dFC7tmwFknyPq3k32jiik,spotify:artist:6M2wZ9GZgrQXHCFfjv46we,Don't Start Now,spotify:album:15WGxD1MLrqABhhH1ZTdSO,183290,Don't Start Now,Dua Lipa
+183,Peaches,spotify:track:0MAior6fZ9hfPgzjphQLXk,spotify:artist:1gkSl4XpHIHI4I1WQbfXOE,Boys Wanna Be Her,spotify:album:0J8M07C6x7L21gBGaBnCf8,235573,Impeach My Bush,Peaches
+184,Sia,spotify:track:4VrWlk8IQxevMvERoX08iC,spotify:artist:5WUlDfRSoLAfcVSX1WnrxN,Chandelier,spotify:album:3xFSl9lIRaYXIYkIn3OIl9,216120,1000 Forms Of Fear,Sia
+185,Tokio Hotel,spotify:track:1TWU0OoTdbtkk5x29WN0kX,spotify:artist:46aNfN89JrOQTCy97GoCHa,Chateau,spotify:album:3lSIRcCUZxPqSnMcb3fSsY,201546,Chateau,Tokio Hotel
+186,Gossip,spotify:track:4hjfOnzzrrrDAGt286htU6,spotify:artist:3sFTupo9UGgrujjN21BjwR,Move in the Right Direction,spotify:album:6AKGyIfiwcptAUUzLDB0Gd,211853,A Joyful Noise,Gossip
+187,Miley Cyrus,spotify:track:2vwlzO0Qp8kfEtzTsCXfyE,spotify:artist:5YGY8feqx7naU7z4HrwZM6,Wrecking Ball,spotify:album:3RDqXDc1bAETps54MSSOW0,221360,Bangerz (Deluxe Version),Miley Cyrus
+188,Whitney Houston,spotify:track:5OqmLY18KXsZR1aGrXP3ZI,spotify:artist:6XpaIBNiVzIetEPCWDvAFP,It's Not Right but It's Okay - Thunderpuss Mix/Remastered: 2000,spotify:album:4o3X0kTMB8nTQP1hMJ2uNB,256640,Dance Vault Remixes - It's Not Right But It's Okay,"Whitney Houston, Chris Cox, Barry Harris"
+189,Candy Crash,spotify:track:3ilqgL76o0NyIfwxfAO4Fb,spotify:artist:6FU4YjdVmj08vA3KPEehxa,Little Too High,spotify:album:6U159QKcPV6j4w0blUIlWV,164287,Little Too High,"Candy Crash, Jinka"
+190,RuPaul,spotify:track:1oSUTFfnEwftOTRxpLKWOY,spotify:artist:2SdOKxC1sSxEyv8JYERaNe,The Realness (feat. Eric Kupper),spotify:album:0K3AROBOn8bwPWw08R5EL1,205266,Realness,"RuPaul, Eric Kupper"
+191,Alaska Thunderfuck,spotify:track:25Y5EIIljjyEhKdl23zv6j,spotify:artist:4k2ggpJpzdQHCBQ84f1jBy,Your Makeup Is Terrible,spotify:album:0waPxXoq3OJpX0gsfWpc2o,237474,Anus,Alaska Thunderfuck
+192,Little Mix,spotify:track:7IOuCLt770D8v0u3SVaDeI,spotify:artist:3e7awlrlDSwF3iM0WBjGMp,Wasabi,spotify:album:7Ho8gAx4haSxv1eFLQwvTj,154786,LM5 (Deluxe),Little Mix
+193,Janelle Monáe,spotify:track:3IJCSQoLF4YzPAKaxq2JLb,spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,Yoga,spotify:album:5rzxGeVyCV74SvV5hjLRAU,217678,Yoga,"Janelle Monáe, Jidenna"
+194,Madonna,spotify:track:7j5TIXPi0cCbSSqItmbyZy,spotify:artist:6tbjWDEIzxoDsBA1FuhfPW,Vogue,spotify:album:5MzwGwnO9gkh0z6Nl4FF8h,317080,The Immaculate Collection,Madonna
+195,RuPaul,spotify:track:1mI23ynlBTWed9Xh5T4G5e,spotify:artist:2SdOKxC1sSxEyv8JYERaNe,Cover Girl,spotify:album:1vCl7njT6qAP9VqzatgzlN,183013,Cover Girl - The RuMixes,RuPaul
+196,LMB DG,spotify:track:6NwyHRfUVnUBUZW9W5McAZ,spotify:artist:32dh4IR61XDw1XhDpD2Faw,Pull Up,spotify:album:0hB1SMe4ztzlBQmKHvF8cD,141129,Pull Up,LMB DG
+197,Ben Ruettiger,spotify:track:7m6YoApyh8FYdsuYKSPPFX,spotify:artist:07OvSE9ERVJiW0ynMCHvnW,4ever,spotify:album:3KJcqdWaQmEFevs7yuRMRs,182000,4ever,Ben Ruettiger
+198,BAYWUD,spotify:track:4CcZQ8FmJhw8iYv6fytJyj,spotify:artist:3dDdngfjnuthfO2OPYRZqz,Last Call,spotify:album:2JOaRKlkDZyVyIfxwztxFn,178832,Last Call,"BAYWUD, Dvniel"
+199,Eddie the Kidd,spotify:track:1ER7kURmhMiWiPZnZk8OJr,spotify:artist:4sud4uHfRVNMO3KPmFvRR7,This Isn't Love (Kidd and Friends),spotify:album:3kBPTo7Kc9dtdr019ZP118,205661,This Isn't Love (Kidd and Friends),"Eddie the Kidd, NICK WHITE, Kisos"
+200,Popdorian,spotify:track:77hH8JzKxbPP97AU8c6uCt,spotify:artist:6Bu3Ax2o5j2wBeztMGDOCe,Magnificent,spotify:album:5Q9Bm7d4oq71rl9ryKIihZ,191439,Benefits,Popdorian
+201,Madyx,spotify:track:49LWUWtAL729yHN6Wzbcpb,spotify:artist:0yMcs3BSd3sReeuzbyZGVK,Some Kisses,spotify:album:4A6IEKyETSeeeeWqgkG89a,227975,Worth the Risk EP,Madyx
+202,Chey Rose,spotify:track:2NWRR4Hy49RvY57VRRlrBm,spotify:artist:1FLo8t5Xtr2OOWob1rXcOa,when the dust settles,spotify:album:3jk3p2hyzI9VisHWgjgNWF,156607,when the dust settles,Chey Rose
+203,Jay Alan,spotify:track:7fjZMd96X8mo5XfjXOGcFN,spotify:artist:34eH4GyeqQiYobL6coyBW3,Got Feelings,spotify:album:70RPBJstIROl5nSVtB9loW,161632,Got Feelings,Jay Alan
+204,Pikes,spotify:track:1jhh7Od66ONyyI0666tXTb,spotify:artist:3iYk1tEjUMPcs5roPxv533,Second Wind,spotify:album:2adIjHFA8IpktUOqwl19Vb,224750,Second Wind,Pikes
+205,Jay Alan,spotify:track:1Foe9vhMhg1pDB1IPjDqii,spotify:artist:34eH4GyeqQiYobL6coyBW3,Something Slow to Dance To,spotify:album:7vHP3NkZOw5DY1tQiQvHC1,183000,Play Pretend,Jay Alan
+206,Finn Anderson,spotify:track:3IYAwgKQsKVw85EknORkxA,spotify:artist:1AaghaiuseHqI3wMM2W8NL,The Lighthouse,spotify:album:7jdiPKKYZCiQDKwnZoUfWe,257562,Into the Arms of Ghosts,Finn Anderson
+207,Dan Zimmerman,spotify:track:3CdmaLc6l8HZLAeghloJDl,spotify:artist:5aVHACIFGMdOeMv7sjOkhZ,Carry You,spotify:album:6c19uouByfulgHT1eBcpkP,265145,Carry You,Dan Zimmerman
+208,James Walker,spotify:track:0vvLfJccEDISXBp1KurC1H,spotify:artist:08cmuH6uJGH9dQjvvdkTvR,The Conversation - Instrumental,spotify:album:4k1SXSh939bnv6OIuGl7cU,209630,Great Deceiver (Instrumentals),James Walker
+209,Seeva,spotify:track:0E4XFbSbafR9jnqEImhF0O,spotify:artist:5gJzTIxbaGM0Z5EnLYuUxg,Twenty-two,spotify:album:4MhmPW6FAWawJZad2nssgT,163688,Twenty-two,Seeva
+210,Derek DeRush,spotify:track:4b3nZEFqiS95suLWaccZqU,spotify:artist:1CoB404OmK49m2BU97BxLN,Satellites,spotify:album:7iEzPbTZ6SIGoa3vckGwcY,180055,Satellites,Derek DeRush
+211,Vojta,spotify:track:15lHIN8UrUPdCPugF8rW5Y,spotify:artist:06VU2wVPhH9MzYX3PEca80,Equally in Love,spotify:album:7K2AkZKW4ONmTaUVT8MQM4,187500,Equally in Love,Vojta
+212,Martin Baltser,spotify:track:4ZocW2dOgIhCJ1EahWGjiY,spotify:artist:3BmllF2oeeDaPp6taysb0H,Our Rockets,spotify:album:13LgAx1CM3jClGeKUV369Y,264897,Our Rockets,Martin Baltser
+213,Jason Justly,spotify:track:3Kx9eEc5k2PR4zyQIgAmdu,spotify:artist:7F3owyjCMiVQG5xZEwWhx1,Echo,spotify:album:08AXf0iUnQgsDWCAEqLysc,202285,Echo,Jason Justly
+214,Zach Benson,spotify:track:6O75SLCcWpsrL9OsZ0xCZc,spotify:artist:6A3jqWm999qecxHqaz2Ehg,Sunset,spotify:album:76bYh0qgrYTm6CYVehtOuL,216428,Sunset,Zach Benson
+215,Popdorian,spotify:track:3LexowXvObCCnRhp3y6Fax,spotify:artist:6Bu3Ax2o5j2wBeztMGDOCe,Loving you was easier when I was in love with you,spotify:album:5Q9Bm7d4oq71rl9ryKIihZ,242000,Benefits,Popdorian
+216,Fruut,spotify:track:1ws4T5Okwpn7AB26UmDVSf,spotify:artist:5swE2ci4vj5X2DDnHlYrYw,Love Language,spotify:album:6sKVJdwGQfAaCtD2BbTvtU,201063,Love Language,Fruut
+217,Nai'a,spotify:track:7CvrAuatkkmpTd8Pd5iGtl,spotify:artist:5irDXaVVx519HjzQQLPhKp,London,spotify:album:3hRqpKZHmeTEDdfmeBk34o,196000,London,Nai'a
+218,daena,spotify:track:0SqgdCWtr4Gyk1qQEPCKVZ,spotify:artist:6e00lwQmKeUN5Gdbl1LddA,Just the Girl,spotify:album:3nWBNr1MKPQHvqB97gNf7L,264430,Just the Girl,daena
+219,Sundaes,spotify:track:7eO8wa6iuFvPbDNjpfsWeM,spotify:artist:7qiXFwby9N5MEUFATBy5cp,a long kiss goodbye,spotify:album:3cfHsi4Gl3E0VL1QVeGPWL,213068,boys who made me cry,Sundaes
+220,MKSM,spotify:track:5ePF5kBzxYBmYGTQcP54d0,spotify:artist:6PrTFzpmEtnqnQzmIYcWjN,Imagine,spotify:album:7KxxSGGxd1kvuEXPnIl0Hr,178125,Imagine,MKSM
+221,Sem van Loon,spotify:track:6j7C43EAvOYqC7KN5gXBYZ,spotify:artist:1Dcar14dQNQgzhSi0hn0Z7,Half A Man,spotify:album:20BjlNwdtiSTMHFx1h9AJd,165783,Half A Man,Sem van Loon
+222,Winnie Ama,spotify:track:3KRqKQWWQeNDdWYHMO3sWJ,spotify:artist:4DJIumnofpauv3dYkgZSv1,Here I Go,spotify:album:4uaWFq2A3ZGtnr4deRunIv,217058,Here I Go,Winnie Ama
+223,Fox Revett,spotify:track:4CrvS0s1Auok0o34P2hUDw,spotify:artist:3xiEXLKAYB4U9TfkpYWM3F,Someone New,spotify:album:36OuJoRcuGyLBcaiVCtWOM,215888,Someone New,Fox Revett
+224,JËVA,spotify:track:3Km2Uw3VVZXraeZnSUiyZ7,spotify:artist:2vCUQAwdE83viqTMXxy4R3,Good Friends,spotify:album:72Eb9lCRyDffEKTScRbsUp,189283,Typhoon,JËVA
+225,Boy Jr.,spotify:track:07kz5sARL3rJOva2KtSsaC,spotify:artist:7CuIkxF7VfHwKecQzUEGgv,"Narcissist, Baby",spotify:album:2savMtf2uzXrx9q63sJzVA,196231,"Narcissist, Baby",Boy Jr.
+226,SH!NER,spotify:track:4BLgWhUAgq0LhX98XRqEsH,spotify:artist:3jZP3KM1xy78Bz59n6mzTd,god in the mirror,spotify:album:6gePkFCStIRFfD9Zw1tpfh,246460,god in the mirror (EP),SH!NER
+227,Scott Borel,spotify:track:2ys4lkXXShEgQib4SINaar,spotify:artist:3q420zrYYQxfdByEpurTTZ,Control,spotify:album:2lsVw9uARx2rV3zTeWbm1K,146141,Control,Scott Borel
+228,Popdorian,spotify:track:5IUbkfzP7UUeyva4bSjFX6,spotify:artist:6Bu3Ax2o5j2wBeztMGDOCe,Tomorrow I won't be gay,spotify:album:3cOFFZP5MXvPBRNqoxSlDE,216428,Loving you was easier when I was in love with you,Popdorian
+229,Austin Carr,spotify:track:1x9fUhjcQcSnjFXbwKIrz1,spotify:artist:7wbw9KslI7YzqujQRkxDrB,i don't wanna be your friend,spotify:album:4vsXBzWtUrqSQ72GsukwgR,165194,i don't wanna be your friend,Austin Carr
+230,Sara Bares,spotify:track:5hFVUUBjgzNHBld3G9KDvW,spotify:artist:2JpRoSWQ69V9SrA5nwvo7O,Just Like the City,spotify:album:75OByxAlIAlpqd5BhrtAAz,236103,Just Like the City,"Sara Bares, Scott Borel"
+231,Hrtpwr,spotify:track:3une0qtImPBhNktOx68ILL,spotify:artist:62yTlBLRMe9ECopQsDNzCX,Real Big Love,spotify:album:4P7BklOIyXtH4gasB8Thdm,171859,Real Big Love,Hrtpwr
+232,Jess Fitz,spotify:track:0ssqdJYcbAAZxz6LwQ3kjr,spotify:artist:4VQMIJIdaj7VjJp936vtQm,Heartbreaker Energy (Acoustic Version),spotify:album:5L3QD5Uhsmtjcgbs4CWvbP,218450,Acoustic Energy,Jess Fitz
+233,Nobyn,spotify:track:3e3rVW5ayNrzkTIcUBC7wW,spotify:artist:3BPPfYjihKqirB96T6WEmB,Float,spotify:album:1DbwJ8h7nOIJV7ZVZPtfcS,176774,Float,Nobyn
+234,CHILD + the banned,spotify:track:0QvWuDlZnrPLnTVRzYVRIp,spotify:artist:37jg6o775fa2KRD9iEGcNH,I Dreamt,spotify:album:38qgly67CbRcaKudjqsaUa,227828,I Dreamt,CHILD + the banned
+235,Popdorian,spotify:track:6ZtqbK0V9ItdFDeE4N4Wkr,spotify:artist:6Bu3Ax2o5j2wBeztMGDOCe,Gotta have him,spotify:album:5Q9Bm7d4oq71rl9ryKIihZ,169352,Benefits,Popdorian
+236,Dan Zimmerman,spotify:track:286syxeLS84Ps4zW5ConY9,spotify:artist:5aVHACIFGMdOeMv7sjOkhZ,Body,spotify:album:6KJB12IM6T4daE9ECLGcOk,191503,Body,Dan Zimmerman
+237,Andronyx,spotify:track:3sudFjDNIZOp6SZ0I1QyvP,spotify:artist:0bFVMEKm7pFmBvSC2DD1XO,Hide and Seek,spotify:album:5I6FBzlBSeWL0qbgVipqJ9,282600,Hide and Seek,Andronyx
+238,Maple St.,spotify:track:2eh1oJgibTJ0eGbXgOVXy8,spotify:artist:4gGRM0ctqeTWqer59nW0S9,Somewhere Else,spotify:album:2KG3GbMYtaZ5towEeMrJJu,179170,Somewhere Else,Maple St.
+239,Bobby Guard,spotify:track:75rzaMnmCHgeyuwsxGrAqa,spotify:artist:4DCaSD2YuHkBuAYj5b47d1,Your Peace,spotify:album:3aS8Ffqfd5ivHh99jylcQX,253383,Your Peace,"Bobby Guard, Importer"
+240,With Joe,spotify:track:79U6ZnAa31C08EHyPt0LOy,spotify:artist:6DHgMgmAsf8l2kiUyCKww7,Vision In Purple,spotify:album:1bedXHsuczadqZqUT8vPM5,147813,Vision In Purple,With Joe
+241,Jasn the Kid,spotify:track:7vs0qKAOMxTSRooovbvCKJ,spotify:artist:6vTILz5JUdHBA8RjiFxkmK,F*ck Being Cinderella,spotify:album:2ZAjRTOstFDovVcZlCf6Sj,168000,F*ck Being Cinderella,Jasn the Kid
+242,Blueboy,spotify:track:5rRAm0AhRDRY5d93fQgJk2,spotify:artist:6r0hXG2X4GSY1MNj4zLcXi,Boy Crush,spotify:album:5aNarGEeCbuExO4kZqGHAo,175009,Navigate,Blueboy
+243,JËVA,spotify:track:1dqQhxqOSkzhqFjAN0c3Cx,spotify:artist:2vCUQAwdE83viqTMXxy4R3,Good Friends,spotify:album:2qJcExA2ff7usr7GvSGTmG,189283,Good Friends,JËVA
+244,a balladeer,spotify:track:7HWxIBizOFNo505Ljw6IcV,spotify:artist:5MUNbMtqB3EOKxwSJBVJ1U,Swim With Sam - rerecorded,spotify:album:3NSLHcKHZ8422YD7MQO8Ch,263726,Swim With Sam,a balladeer
+245,siovo,spotify:track:64izscyfL2huRxcNEAp5Jo,spotify:artist:00ektSs4zWX7aBQqs5cgST,In meinen Träumen,spotify:album:2hy95VbZmLEZrgqyFtlXFm,160055,In meinen Träumen,"siovo, Localdogs"
+246,Abigail Fierce,spotify:track:1Ux9Ql1kyqa0skExUNerDW,spotify:artist:24q2VAybFrs4Lzy0eEnXga,Scream It to the Whole World,spotify:album:1orSZnxtwZ45Mc9x1MZ20Z,207378,Scream It to the Whole World,Abigail Fierce
+247,Just Shy,spotify:track:5ZNEfjoq7cYiLtrxUnDaIx,spotify:artist:6xZJUaM1vfy9fcuiHfeywG,Consumed By A Beat,spotify:album:78h4whAKaXJb1ZZTy55hDR,203646,Consumed By A Beat,Just Shy
+248,Roger Perelló,spotify:track:6n4l8wd71xhvPNgTScw5LA,spotify:artist:4X8oWezsUAzuhjoO5AN9wx,i am what i am (your beloved man),spotify:album:1KAr43Jayhv8MjLtahVjKj,214000,i am what i am (your beloved man),Roger Perelló
+249,Florian Rose,spotify:track:5uR02KQ9do8LK7H26BPYDK,spotify:artist:75ssEOJczox2KbDPn2udDP,Pomegranate Boy,spotify:album:71r9tH6AzBF8547vIutoZq,200727,Pomegranate Boy,Florian Rose
+250,DAMIÁN,spotify:track:1QVlO28divyjxFO4BaJsUr,spotify:artist:35RzR2xhkJprK8IFafAUtH,This Time I,spotify:album:15rh7LTclmAUPRDzUaXiqm,177800,Finding Joy,"DAMIÁN, Amanda Yang"
+251,Owen Duff,spotify:track:0AW845DiPvcQ8BuAkU0YWv,spotify:artist:1X7n0ASm5m7S9deCBxEIl0,One Word,spotify:album:51Hwytf58JjhgIIBEgASVp,186250,One Word,Owen Duff
+252,MKSM,spotify:track:64xmyB8jP9XAQC6o51Ahxo,spotify:artist:6PrTFzpmEtnqnQzmIYcWjN,Hold Me Down,spotify:album:6KGniI9xMQT8qmurWEhArm,228111,Hold Me Down,MKSM
+253,a balladeer,spotify:track:55Bkv2AAj3r5vz8gd3rPbT,spotify:artist:5MUNbMtqB3EOKxwSJBVJ1U,Winterschläfer,spotify:album:2Nb3udeuppOa0UspvVcC0N,228171,Winterschläfer,a balladeer
+254,Jessye DeSilva,spotify:track:4nRpHB8s2bD1ZXsUbDD6vv,spotify:artist:3LwQ83KEgmU9vdKMvlh0zJ,Queen of the Backyard,spotify:album:6IJB7Ldeb2t4c8BfNzNIkf,288156,Hover,Jessye DeSilva
+255,NIKO,spotify:track:6sHUmmrlI92nwrehhAXWIL,spotify:artist:0Ma0uFv5F33l0oahpy5N6Y,Idol,spotify:album:4RVJH7PTzQrEBP6XSQtDHB,223649,Idol,NIKO
+256,Mel Fine,spotify:track:04VNbsBxAE99HPs0bxrIf3,spotify:artist:7pHXlosvksMuLEjOPlCNMd,In Between.,spotify:album:2geHG4IOcSRAzcfkVanGw3,237983,In Between.,Mel Fine
+257,Nicky Buell,spotify:track:0x51U4P4RntgqBXz5nnnOv,spotify:artist:68k70YNmyjOGsTekZIxXR9,BOY CRAZY,spotify:album:7o5gXsEUvGOLz44ECPYiN8,199634,BOY CRAZY,Nicky Buell
+258,Jafeth Jacobs,spotify:track:4uOAvRu3wmtSG4BaUuKU5x,spotify:artist:42wkDhcLLfJSiLy57IoeGH,Brokenhearted,spotify:album:4cYoWYmmEJFD3xYCuFKajG,195741,Brokenhearted,Jafeth Jacobs
+259,boy cam,spotify:track:6RQZvpe3FP8bdF3rSAIeMJ,spotify:artist:71hu9nXKCY91T5Dj2vijgh,Feelin' Kinda Heavy,spotify:album:4ELdQBgbM1Ozf2wHrPLBUV,264000,Feelin' Kinda Heavy,boy cam
+260,Bay Bryan,spotify:track:5YiMc9Shy3JewTGDfam2tM,spotify:artist:3AI7aR5cD9XZYk8Zha2vsX,Let Go,spotify:album:2SRbpQMdgY9IqOOXvjbX6u,210480,Let Go,Bay Bryan
+261,Pikes,spotify:track:6DuyOIzgWHZPPWrvGMW9aQ,spotify:artist:3iYk1tEjUMPcs5roPxv533,Cool For You,spotify:album:4Iyo4yqIaRyoJ5DH60XlG6,180000,Cool For You,Pikes
+262,Sir Dallan G.,spotify:track:3A0xbkTa0czDgp749a21W9,spotify:artist:3qbsaYPGJAll3ZQ3R9duwv,I Hope I'm Yours,spotify:album:22LC6etuccyM6Q5w7BbIiK,243000,Queer Vespers,Sir Dallan G.
+263,Tawnted,spotify:track:5mPSYvl3VXGU4bbTuzcj65,spotify:artist:7zh1uCj4XNxdWhuRVdc1tR,Narcissism,spotify:album:4whmI23WFavKG4ZmIhAnYt,198699,Narcissism,Tawnted
+264,YawnyBlew,spotify:track:35BjIyeuy2ZwkyTSISOR6T,spotify:artist:4yxxz1g7rGsJdHmWGR6NtK,Dusk,spotify:album:07JInJSZw2gpz85tE7Dik9,158146,Dusk,YawnyBlew
+265,Paper Eros,spotify:track:09z9USvP7ONInhQhD1NbPB,spotify:artist:75EPhnOsH71y3C8YmPoj82,Dystopia,spotify:album:5Nyl9WCpeOk7gusmWMuurc,205090,Dystopia,Paper Eros
+266,K Anderson,spotify:track:5UmsPL3pgBiwGVYslcj7U1,spotify:artist:2hemxJSBMzRDDHNL6eBVXj,Now It's November,spotify:album:69bZ6xcsiMAuntSVFbuXgw,157020,Now It's November,K Anderson
+267,Bobby Guard,spotify:track:1fQgpY8me77920YWvk5VJ9,spotify:artist:4DCaSD2YuHkBuAYj5b47d1,Hi-Lo,spotify:album:1GummpmJQfzYiutj4eCKQ2,237360,Hi-Lo,Bobby Guard
+268,Jamie___rees,spotify:track:2DH2S7WBKi0yUQeW953HuK,spotify:artist:0vddtIN7nv5DIyHh8yjz4o,21,spotify:album:5CDfUCjAnGeAITUuJ9QT6F,280246,21,Jamie___rees
+269,Blush Wilson,spotify:track:7bX6YfYNEIWaFJV3e8Dygf,spotify:artist:2CVt1KZkOP6lSUryG7F4j0,Asylum,spotify:album:4mgssRlL55Bc2g3TjqQvPg,297813,Asylum,Blush Wilson
+270,Anson Jones,spotify:track:0Q27WVS15guQ7plePc2faA,spotify:artist:3xT97ey0BVfOXbVwm17s0s,July,spotify:album:3Q6Jt5pMaycremDfM2Syd1,207240,July,Anson Jones
+271,Charley Furey,spotify:track:3uqOiwVwNkFIjLSKLGpzsm,spotify:artist:0fPCagnvD6MegZX7wKDMSU,Gold,spotify:album:3MNcMagycyVcjelFThpMe1,214468,Gold,Charley Furey
+272,Leon Waldo,spotify:track:1xXWO27NNvpGId70kfnvAp,spotify:artist:1Ry71R0xYI1JcQOHeDaql8,Sundae Sunday,spotify:album:4dhzycsoq0GtdwWyjkhjTa,189310,QUEERWAVE.,Leon Waldo
+273,Hrtpwr,spotify:track:54MllHagLJ5NDLQO32nvID,spotify:artist:62yTlBLRMe9ECopQsDNzCX,Silence,spotify:album:1t96cde4H4vjAIMMMN3o4X,226461,Silence,Hrtpwr
+274,boy cam,spotify:track:3VVfJkaaBZtRcERn7P82j6,spotify:artist:71hu9nXKCY91T5Dj2vijgh,I Know Better,spotify:album:2xBIW2a22aiG7S2ffLMYtb,201230,I Know Better/ Valentines Day,boy cam
+275,River Westin,spotify:track:4FbcIgWaPot2eZqd6fdiEY,spotify:artist:2lMUxSSN84QWXoYTr02xCY,Candy Cigarettes,spotify:album:0Vii5vbxqZTbXLUyGrzdWD,259127,Candy Cigarettes EP,River Westin
+276,Becky Krill,spotify:track:7LROpaCXkTu5BNr40byBC7,spotify:artist:5nxZIgo7DavlytCT1lfCxU,Alive in the Summertime,spotify:album:6fJArtFxqBvELNDGDkns0s,170972,Alive in the Summertime,Becky Krill
+277,Yumeaki,spotify:track:4f1lr0SZwId5t2J7wzMcNX,spotify:artist:4R01RVpb7mz8oC0VzPW2cN,Clownery,spotify:album:23KqZWdfI0iIHwfuqMNjUP,173139,Clownery,Yumeaki
+278,J.R. Price,spotify:track:6hmrT5CLozJGOf46wYc7Qi,spotify:artist:4C53beBDASsx6eAiqLxdCO,Dance with Me,spotify:album:3Q4PwLWHu0egf6dA1Fqr18,238240,Dance with Me,"J.R. Price, Tom Goss"
+279,Sarah Cicero,spotify:track:29KX2ZRIK5Uisl7iSee3bR,spotify:artist:05ivODJOj5tqo3rBmzhy98,Indifferent,spotify:album:6MQG41Z1UtmQSK9DPAPAL9,250133,Indifferent,Sarah Cicero
+280,ICARVS,spotify:track:34dvHmF3K6Il1CArxlFRoB,spotify:artist:4HoHftNXqwK70pSMsIBhNI,Love The Way I Love,spotify:album:0mE7HSgt1gvZpeyhdxCMVg,226341,Love The Way I Love,ICARVS
+281,Laurre,spotify:track:3TgSrGgWJpSjsrSSUjBwZV,spotify:artist:6CUrTYCNmlbfqtGdHRIc5U,Don't Ask,spotify:album:3PoQiRUNkCxD2Wz1o0R0xU,185016,Don't Ask,Laurre
+282,Tawnted,spotify:track:2MVVlWeaEeAs9JBNwFgboy,spotify:artist:7zh1uCj4XNxdWhuRVdc1tR,Let the Rain Come Down,spotify:album:073qeB3uKqW4Slt8A2WF35,160017,Pieces,Tawnted
+283,Big Love and Little Hollywood,spotify:track:3GkL6as11lsXOHLQOLvUod,spotify:artist:6EWhaIgWq8P6AmvXu1q6U0,New Slang,spotify:album:59zcK2BT7xqqOaCbeRxQq0,240195,New Slang,Big Love and Little Hollywood
+284,Ryan Cassata,spotify:track:28v0OK5Qa1ABL1LZkOYFYB,spotify:artist:0tFlCZaGI6bC1XxtfzIhmG,I Met Jesus at the Gay Pride Parade,spotify:album:15WVtgBwrDivOhzbmFvSFn,204033,I Met Jesus at the Gay Pride Parade,Ryan Cassata
+285,Caleb Sanders,spotify:track:0TeoBYeBWlmy1Fbjsfm7dX,spotify:artist:2J15jSwWcT6x5O0TE1aZuF,if i called u up now,spotify:album:0O4cAgR7NCTSjYvFzVGNZx,316463,if i called u up now,Caleb Sanders
+286,Promis3,spotify:track:6bqnbGhZiA2rEFZbLlM8gj,spotify:artist:67klEFn7sTV209voBTSZB8,Don't Wanna Fall in Luv,spotify:album:2PNN9B7cLIDgoAKl7GWysi,178695,Don't Wanna Fall in Luv,Promis3
+287,Your Friend Ben,spotify:track:4DJtaTBrUPR6M0HFlgLQ3F,spotify:artist:0tINT0iewJU6QQ4bqL2oV0,sneakers,spotify:album:7ohvzsBIrmjOkLXoyCZz2c,223953,sneakers,Your Friend Ben
+288,Yavin,spotify:track:4Qv7phtUmENEdLg8C5sCLZ,spotify:artist:7Gfv3zz0llLUQ1HhyHSYTl,Bitter.,spotify:album:5rh11HnFZwDC7rUGIfoacv,214064,Bitter.,Yavin
+289,Jxckson,spotify:track:50CK0IcYGT8iheuGkcjw80,spotify:artist:475aZptPDoQbIY7GlOdpHN,Ready for Love?,spotify:album:6lnqg2Ea1bev7Vo9o5WxAF,186239,Ready for Love?,Jxckson
+290,Barrett Crake,spotify:track:2oygttOZA8dTFxHevUYGKm,spotify:artist:0io0zWpbQm5kKw5SjeCNTO,You Got Me Like,spotify:album:6KjK9QOiX0rxOJzoXlRYco,174757,You Got Me Like,Barrett Crake
+291,Ivan Grap,spotify:track:44nY1rlMs1LxkaeFZiwxqj,spotify:artist:4ZprrKMAFB8JXXLADV5nMe,And I Said Just Take Me Home,spotify:album:0lrqe85AFYCCSG86Cgr09y,206776,And I Said Just Take Me Home,Ivan Grap
+292,Joe Daccache,spotify:track:5RcdoLxxz4eRab9Q3ctcJB,spotify:artist:1eOMxN37BxLAtv7GetTXcC,Body Talking,spotify:album:2j2eIYin1QTEj4uzCRPRUf,212571,Body Talking,Joe Daccache
+293,MKSM,spotify:track:56hbTBWKzvOfxI2AUptQ8k,spotify:artist:6PrTFzpmEtnqnQzmIYcWjN,Collide,spotify:album:2AebXDcr82cRdeDZ5jshHw,183003,Collide,MKSM
+294,Louis Torre,spotify:track:7APH5qn1mQ51NIVmg9S08w,spotify:artist:016KYKeKm8wIbzuQjBxhsj,Outer Space,spotify:album:19Us3XXWCbcvEgOOWPr7tp,164087,Outer Space,Louis Torre
+295,Bobby Guard,spotify:track:3dnGMH6GvL3RW8xboN9WJE,spotify:artist:4DCaSD2YuHkBuAYj5b47d1,Faith Alone,spotify:album:79uahbi8yrWwAv8Tlrsv6N,280556,Faith Alone,Bobby Guard
+296,Spencer Leibow,spotify:track:5iLLOGNxWmchFvDeKKF7bf,spotify:artist:5t4nhDmGT4Zs4itjZ8MbtA,Get Up,spotify:album:7wvni6odVeamNp5UPMIbvU,160000,Where Has the Love Gone Now?,Spencer Leibow
+297,Honey Dijon,spotify:track:7J6BpQrP9hCRc7TzN0XqY6,spotify:artist:0XfQBWgzisaS9ltDV9bXAS,Love Is A State Of Mind (feat. Ramona Renea),spotify:album:5fh3Zpnp4rJMlmkLZCOtta,193859,Love Is A State Of Mind (feat. Ramona Renea),"Honey Dijon, Ramona Renea"
+298,Syd,spotify:track:5vvn5HATa05iKVql6oYULV,spotify:artist:3jk39CGeaaSO3FPKNx1RUx,Missing Out,spotify:album:1WteYNWIkmmgTfquwV0Mc4,239744,Missing Out,Syd
+299,Lil Nas X,spotify:track:27NovPIUIRrOZoCHxABJwK,spotify:artist:7jVv8c5Fj3E9VhNjxT4snq,INDUSTRY BABY (feat. Jack Harlow),spotify:album:622NFw5Yk0OReMJ2XWcXUh,212000,INDUSTRY BABY (feat. Jack Harlow),"Lil Nas X, Jack Harlow"
+300,Spellling,spotify:track:7GkNvyhBawJGjNkmKsyQjP,spotify:artist:7rlAAAiWScpsT1hmgURAmh,Little Deer,spotify:album:5Dqqrr1dhaZ3BcFthVUCj2,339307,The Turning Wheel,Spellling
+301,Shamir,spotify:track:2czRLbCuPOP9azgqYS52c9,spotify:artist:7JgXEHI1oEiQICAMeCsKTj,Reproductive,spotify:album:0DpCo0SXKnfsBx98H2qDVI,275805,Heterosexuality,Shamir
+302,Lava La Rue,spotify:track:6f2877TmbjnqZEqeQEGi3o,spotify:artist:271bbpX3pdCi56ZJA1jQ43,Vest & Boxers,spotify:album:1Grk1vw2BVPcwvci9xcHy1,177064,Vest & Boxers,Lava La Rue
+303,KAYTRANADA,spotify:track:1jBKtzlwTVtCrScpiiHiKT,spotify:artist:6qgnBH6iDM91ipVXv28OMu,Intimidated (feat. H.E.R.),spotify:album:1tbB05wnLmxMl8WPbcnV0y,207840,Intimidated,"KAYTRANADA, H.E.R."
+304,Dizzy Fae,spotify:track:4ymwozmsZ75AyUUTRhSOcQ,spotify:artist:0jt1EsJCeoQXLNDta4JF6c,Body Move,spotify:album:4DEf7dix4OkYsi4bpsstRU,177000,Body Move,Dizzy Fae
+305,Yves Tumor,spotify:track:1I0i3wWt1sCZ4PT0TfnyZm,spotify:artist:0qu422H5MOoQxGjd4IzHbS,Crushed Velvet,spotify:album:2julo3Z5rNzSod7DoEuTz7,197493,The Asymptotical World EP,Yves Tumor
+306,Arlo Parks,spotify:track:3fpfQC77x3uwESSJ6VmUKM,spotify:artist:4kIwETcbpuFgRukE8o7Opx,Softly,spotify:album:7qlt7zR5715v6Ey0lQsjcN,188780,Softly,Arlo Parks
+307,Syd,spotify:track:5s7REbEOo8rf3qeC0A7vVS,spotify:artist:3jk39CGeaaSO3FPKNx1RUx,Got Her Own,spotify:album:59Bbr32pMTFHlUb8Nv1Kr0,185786,Fin,Syd
+308,serpentwithfeet,spotify:track:1gVB71qZLk0eGwZGaVIUcM,spotify:artist:1O9iHQjrVuiAYOJFCBeFSl,Fellowship,spotify:album:7dHEw1ug6SGPnGa74DQMxV,219320,DEACON,serpentwithfeet
+309,Mykki Blanco,spotify:track:6DwPbXLTr9lLXlQnzCQDT2,spotify:artist:2tSv9mEQSuNVMGr9qjYfkr,It's Not My Choice,spotify:album:294rHkMh18CMQSRJ6NvFF3,204075,It's Not My Choice,"Mykki Blanco, Blood Orange"
+310,Kehlani,spotify:track:1GaMFbWeBZeSwgyAEr1s4m,spotify:artist:0cGUm45nv7Z6M6qdXYQGTX,altar,spotify:album:2WfV3cpI2BUuIxMISh9nqF,244635,blue water road,Kehlani
+311,Moses Sumney,spotify:track:4vgt7oc3CZojtj4aXVoyht,spotify:artist:5W10uJRsbt9bROJDKoI1Wn,Bystanders (in space),spotify:album:4XYSf2qmvzh7gsnQVWmnL8,270306,Live From Blackalachia,Moses Sumney
+312,Victoria Monét,spotify:track:0iDuW211AjTsYDPsLxyqX4,spotify:artist:63XBtGSEZINSyXylZxEUbv,F.U.C.K.,spotify:album:5ECJ8Rfo3VvvGz7MeBfhFC,205373,F.U.C.K.,Victoria Monét
+313,DijahSB,spotify:track:5Ebu0lwiMFhempIKg1GUAk,spotify:artist:4H9N7llvyhoddyD2oIrXWt,Green Line,spotify:album:4pZN0JVoQx3ikvl6qGzUH6,206000,Green Line,"DijahSB, Terrell Morris"
+314,KAYTRANADA,spotify:track:2mykLbf6YfpFmZwUWowZv3,spotify:artist:6qgnBH6iDM91ipVXv28OMu,Caution,spotify:album:4JOlhEazXmlErhrnmABjYZ,155758,Caution,KAYTRANADA
+315,Talia Goddess,spotify:track:33EIdFutZm94wGn21s2UfK,spotify:artist:4Otn2nALdNCTFUUExiskqw,Never Wanna Fall,spotify:album:47jhDNokUpt09ggdK7uT4Z,281538,Never Wanna Fall,Talia Goddess
+316,Ivy Sole,spotify:track:00EKCASItEc0lfZwzWF34N,spotify:artist:4NcMrSi3B8eUVy6e1Ni3wu,Dangerous,spotify:album:7G39CE2qnxYcW5H2rPlP1K,262841,Dangerous,"Ivy Sole, Kingsley Ibeneche"
+317,CHIKA,spotify:track:1KAA0HBL5iuQe45BXhVk9o,spotify:artist:6UtYvUtXnmg5EtllDFlWp8,FWB,spotify:album:22UE2Lc7VdTqbkGmNBtMDu,202840,ONCE UPON A TIME,CHIKA
+318,serpentwithfeet,spotify:track:7txZm78LBuKa7oD0YnWt0t,spotify:artist:1O9iHQjrVuiAYOJFCBeFSl,Heart Storm (with NAO),spotify:album:43vZ7lfU9t7EzSeM4e8I0D,193533,Heart Storm (with NAO),"serpentwithfeet, Nao"
+319,Syd,spotify:track:18kMrxuEwLL0i4lHnlF5rK,spotify:artist:3jk39CGeaaSO3FPKNx1RUx,Fast Car,spotify:album:1sh8dsfPPlCVXVux5NgX5d,210000,Fast Car,Syd
+320,Leikeli47,spotify:track:1lAGdqI4Wwa8G0XTP6VqHl,spotify:artist:0DtXHIvJ8NWBg5pGvsgWnR,Girl Blunt,spotify:album:69GP3by8YMB8yz0pG03DWl,205480,Acrylic,Leikeli47
+321,rum.gold,spotify:track:5PPzJ8kLOfIftp75EnrT1z,spotify:artist:4mErKO4g29SXtBwj4S80aB,Greed,spotify:album:4IljiFpC1WkmcFkQUbuL8L,225853,Greed,rum.gold
+322,Dua Saleh,spotify:track:7BDQqjYCBiqtEuDzWtUaln,spotify:artist:2DGBzoOLcKLK3eWxFyugdB,macrodosing - Spotify Singles,spotify:album:5TGRGz8e1vdknsuShTrBZr,170897,macrodosing - Spotify Singles,Dua Saleh
+323,Arlo Parks,spotify:track:36qo9oMO8yRrZMsDcd5x83,spotify:artist:4kIwETcbpuFgRukE8o7Opx,Green Eyes,spotify:album:4EXAihXfy75Ly68SzicZUp,197524,Green Eyes,Arlo Parks
+324,Shygirl,spotify:track:5n2xMZmypRAUKW4PkTMy9A,spotify:artist:3M3wTTCDwicRubwMyHyEDy,Firefly,spotify:album:3JywE0BWNUCTqvd9IWshdp,198625,Firefly,Shygirl
+325,Jamila Woods,spotify:track:1RwK5al4DKxgHQ234mKbwB,spotify:artist:4UodukR17NIQfNu5uaqm9B,SULA (Paperback),spotify:album:54gPc2awVOFQyZjJi6dB3s,255906,SULA (Paperback),Jamila Woods
+326,Frank Ocean,spotify:track:4S4Mfvv03M1cHgIOJcbUCL,spotify:artist:2h93pZq0e7k5yf4dywlkpM,In My Room,spotify:album:71VX8yv9T2hNIYVZJVUWVp,133680,In My Room,Frank Ocean
+327,MK xyz,spotify:track:5E7D6pwvNV7oOYEoVQaL38,spotify:artist:3vwC5qKVfZGqWAXzwrqCe0,One Time,spotify:album:23nTkOwxgL10bRmFMjEYRY,156909,Sweet Spot,MK xyz
+328,Shamir,spotify:track:1HxXq8uBgSy8Yg1vicBVTe,spotify:artist:7JgXEHI1oEiQICAMeCsKTj,Ocean Eyes,spotify:album:0GBQupF71RGHBKTR4w7e7m,203727,Ocean Eyes,Shamir
+329,Brittany Howard,spotify:track:5bTaLbpRK8aJvqf2xHlwa7,spotify:artist:4XquDVA8pkg5Lx91No1JxB,Georgia,spotify:album:6fbphjr9j57oxMB2bnhzUf,198056,Jaime,Brittany Howard
+330,rum.gold,spotify:track:02nZeTbm2dRHisH6qsUM5E,spotify:artist:4mErKO4g29SXtBwj4S80aB,Waiting For (feat. Jamila Woods),spotify:album:4l165PoCFHBzfg88mpC68n,200214,aiMless,"rum.gold, Jamila Woods"
+331,Dyllón Burnside,spotify:track:617rg45LEx76r1paWSNpZy,spotify:artist:70P3P13wKq4OwV4JlnrCiV,Heaven,spotify:album:4yursmWYHfO2gpvwszJq7x,165600,Heaven,"Dyllón Burnside, Daley"
+332,Cakes da Killa,spotify:track:6B3NBWtTa7WuPILwpAz6D5,spotify:artist:6MoQZOH2KnQrJhVtO9VoXC,Don Dada,spotify:album:4j8I2IA2VLSYqDCJ0FydNb,185434,Don Dada,"Cakes da Killa, Proper Villains"
+333,KAYTRANADA,spotify:track:23zOqixUia8E5BVMYHXL0c,spotify:artist:6qgnBH6iDM91ipVXv28OMu,Culture,spotify:album:5FQ4sOGqRWUA5wO20AwPcO,248906,BUBBA,"KAYTRANADA, Teedra Moses"
+334,Saucy Santana,spotify:track:6nQ1B216Liiydhgn2gar0o,spotify:artist:2NfwGBr2swqZ1rzE3kAV23,Material Girl,spotify:album:1bdjA6LpTF8vkWLK983MRx,188965,Imma Celebrity,Saucy Santana
+335,Tayla Parx,spotify:track:3QjPHa7u2qcg0WyHjyPtvw,spotify:artist:1LzWWI9v4UKdbBgz8fqi15,Residue,spotify:album:0xwHIshrIHKewaygYFaDBa,146333,Residue,Tayla Parx
+336,Joy Oladokun,spotify:track:53SqnMF0OIZtQWyjvQpFqr,spotify:artist:7rrTqtOUOwva4sgTx9C9F9,jordan,spotify:album:6AsNNdORDTgvDgL2Dz2W88,241196,jordan,Joy Oladokun
+337,Baby Tate,spotify:track:65HXJWOYBX2pFpdtusWRiV,spotify:artist:3IJ21966TwNZI24MwZHMu4,Dancing Queen,spotify:album:47QCUgKloZqFa0ldcUZiff,193076,Dancing Queen / Yasss Queen,Baby Tate
+338,BAMBII,spotify:track:5z9Odpd6Dxm4E59hVyXUSS,spotify:artist:6kf69CwzgodrETRgzcjX95,Nitevision,spotify:album:5y8xwWSEoJKTC0HrMBbNBH,133000,Nitevision,"BAMBII, Pamputtae"
+339,Orion Sun,spotify:track:1ciQU7ZQGHq129m3njp9en,spotify:artist:2efrqekWSHlvhATD50AG3m,dirty dancer,spotify:album:6aO0vMIga31GSawF5f0pMZ,169720,dirty dancer,Orion Sun
+340,Pauli The PSM,spotify:track:5dI0fDIw367KbZH5LUieJE,spotify:artist:0REk2fMEqOBQKenqZv4sgp,Cowgirl (Creeping),spotify:album:30wxTobcgSrrzXPWnZVIor,169251,Cowgirl (Creeping),Pauli The PSM
+341,Kehlani,spotify:track:1YqXXJDSlDHrp66g9as4uo,spotify:artist:0cGUm45nv7Z6M6qdXYQGTX,Change Your Life (feat. Jhené Aiko),spotify:album:6ROLwnmW9pOioLned0DaP3,191128,It Was Good Until It Wasn't,"Kehlani, Jhené Aiko"
+342,HAWA,spotify:track:0pVMHc3HuRxbiFaXTAmPwq,spotify:artist:2YwiHXMC3iIiXZEQZ5PUJG,Wake Up,spotify:album:27xIXAB8VtcqqM0rDsnIag,112915,Wake Up,HAWA
+343,Janelle Monáe,spotify:track:5OpiyfqaQLdtwHd3SfembH,spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,Pynk (feat. Grimes),spotify:album:2PjlaxlMunGOUvcRzlTbtE,240426,Dirty Computer,"Janelle Monáe, Grimes"
+344,Idman,spotify:track:2x93RFNdEs1JtWoHsDQqTj,spotify:artist:6N13mUTgkfYEUmW8R2GH0G,Down For It,spotify:album:0C83wme433FLhE95M4JbvG,195000,Down For It,Idman
+345,Ivy Sole,spotify:track:52tFvypUPX3uDgVgqrNtY9,spotify:artist:4NcMrSi3B8eUVy6e1Ni3wu,BITTERSWEET,spotify:album:5LdnNVb0nomYIlLiRUtAcq,205800,BITTERSWEET,Ivy Sole
+346,"Tyler, The Creator",spotify:track:1nXZnTALNXiPlvXotqHm66,spotify:artist:4V8LLVI7PbaPR0K2TGSxFF,A BOY IS A GUN*,spotify:album:5zi7WsKlIiUXv09tbGLKsE,210253,IGOR,"Tyler, The Creator"
+347,Seeva,spotify:track:0E4XFbSbafR9jnqEImhF0O,spotify:artist:5gJzTIxbaGM0Z5EnLYuUxg,Twenty-two,spotify:album:4MhmPW6FAWawJZad2nssgT,163688,Twenty-two,Seeva
+348,Jak Woodlawn,spotify:track:1TWpOB7BLuIorpmpDUv0F3,spotify:artist:60bENqTTOe6AJTRGMDxFH7,Quiet Moments,spotify:album:4Wh4omI087cvWDsyrtnd5A,85777,Quiet Moments,Jak Woodlawn
+349,Big Love and Little Hollywood,spotify:track:3GkL6as11lsXOHLQOLvUod,spotify:artist:6EWhaIgWq8P6AmvXu1q6U0,New Slang,spotify:album:59zcK2BT7xqqOaCbeRxQq0,240195,New Slang,Big Love and Little Hollywood
+350,Nai'a,spotify:track:7CvrAuatkkmpTd8Pd5iGtl,spotify:artist:5irDXaVVx519HjzQQLPhKp,London,spotify:album:3hRqpKZHmeTEDdfmeBk34o,196000,London,Nai'a
+351,Owen Duff,spotify:track:5iHQoiyRqsOG44KauiLPy4,spotify:artist:1X7n0ASm5m7S9deCBxEIl0,In Loving Memory,spotify:album:4BY7MZqQo6ZYTACYVsWQer,227129,bed,Owen Duff
+352,Caleb Nichols,spotify:track:1AKdzAiB3jSS047gZFcGKq,spotify:artist:0T0HuEmQHT1O1tMsDJcE5H,Ramon,spotify:album:1bqGsCxhMv2eqgLfm6eZkI,160029,Ramon,Caleb Nichols
+353,Martin Baltser,spotify:track:4ZocW2dOgIhCJ1EahWGjiY,spotify:artist:3BmllF2oeeDaPp6taysb0H,Our Rockets,spotify:album:13LgAx1CM3jClGeKUV369Y,264897,Our Rockets,Martin Baltser
+354,Clairo,spotify:track:34q8siON3Dxf5HFVt3pynf,spotify:artist:3l0CmX0FuQjFxr8SK7Vqag,Blouse,spotify:album:1t9GLJU4I8KOrXM86qGJCo,195376,Blouse,Clairo
+355,a balladeer,spotify:track:55Bkv2AAj3r5vz8gd3rPbT,spotify:artist:5MUNbMtqB3EOKxwSJBVJ1U,Winterschläfer,spotify:album:2Nb3udeuppOa0UspvVcC0N,228171,Winterschläfer,a balladeer
+356,Morrissey,spotify:track:2hkXOllf2hBoz4DlM1UTwQ,spotify:artist:3iTsJGG39nMg9YiolUgLMQ,Dear God Please Help Me,spotify:album:1aQLzebvQ37a3jexUxrhVt,351893,Ringleader of the Tormentors,Morrissey
+357,Solo,spotify:track:4QzPcxNtLI8gvudQ3DI6qn,spotify:artist:5E5QWi6shjVx5yOFa0t7Gx,Boys,spotify:album:42Fy9YaxncGi992cC36BB2,201050,This Is Solo,Solo
+358,carpetgarden,spotify:track:5rffwMI9mXlXJimHmIGzYQ,spotify:artist:1rw5Io28PBVxMjikCwvevG,Can Ghosts Be Gay?,spotify:album:1IEn9lyrg2jFJUUdXUoznG,201902,Can Ghosts Be Gay?,carpetgarden
+359,Jay Alan,spotify:track:1Foe9vhMhg1pDB1IPjDqii,spotify:artist:34eH4GyeqQiYobL6coyBW3,Something Slow to Dance To,spotify:album:7vHP3NkZOw5DY1tQiQvHC1,183000,Play Pretend,Jay Alan
+360,Finn Anderson,spotify:track:3IYAwgKQsKVw85EknORkxA,spotify:artist:1AaghaiuseHqI3wMM2W8NL,The Lighthouse,spotify:album:7jdiPKKYZCiQDKwnZoUfWe,257562,Into the Arms of Ghosts,Finn Anderson
+361,Roger Perelló,spotify:track:3A5BDFnsBcz98Hto5Ov9Rn,spotify:artist:4X8oWezsUAzuhjoO5AN9wx,Butterflies,spotify:album:0IgwmClXJBUIBRDAnS29Lq,137142,Butterflies,Roger Perelló
+362,Dan Zimmerman,spotify:track:3CdmaLc6l8HZLAeghloJDl,spotify:artist:5aVHACIFGMdOeMv7sjOkhZ,Carry You,spotify:album:6c19uouByfulgHT1eBcpkP,265145,Carry You,Dan Zimmerman
+363,River Westin,spotify:track:0uGyJ7DgUHEuRGXNh8AahX,spotify:artist:2lMUxSSN84QWXoYTr02xCY,Sweetheart - Lofi Version,spotify:album:2miNle5nLRTzOegfkNoKr6,141500,Sweetheart (Lofi Version),River Westin
+364,James Walker,spotify:track:0vvLfJccEDISXBp1KurC1H,spotify:artist:08cmuH6uJGH9dQjvvdkTvR,The Conversation - Instrumental,spotify:album:4k1SXSh939bnv6OIuGl7cU,209630,Great Deceiver (Instrumentals),James Walker
+365,Cub Sport,spotify:track:6lOHJvk1ss3cH42PlxyLvo,spotify:artist:6vqMDhoigg5btfdPsPTVFt,Come on Mess Me Up,spotify:album:4cSJTDkqQjB7WweWHdtZ48,203640,This Is Our Vice,Cub Sport
+366,BAYWUD,spotify:track:7iAh3rCwr3VprPZ9fjdNb4,spotify:artist:3dDdngfjnuthfO2OPYRZqz,In The Arms Of Silence,spotify:album:6tAeaaff2G0o7URvHMQmvn,249430,In The Arms Of Silence,BAYWUD
+367,Pillow Fite,spotify:track:79i8uK37k2NxmjR8Rqym7G,spotify:artist:4qYYUWoet5mNRpDASCnGC8,Alkali,spotify:album:27aDANWWRr72D1qnbwOURA,267642,Alkali,Pillow Fite
+368,Sundaes,spotify:track:7eO8wa6iuFvPbDNjpfsWeM,spotify:artist:7qiXFwby9N5MEUFATBy5cp,a long kiss goodbye,spotify:album:3cfHsi4Gl3E0VL1QVeGPWL,213068,boys who made me cry,Sundaes
+369,Sara Bares,spotify:track:5hFVUUBjgzNHBld3G9KDvW,spotify:artist:2JpRoSWQ69V9SrA5nwvo7O,Just Like the City,spotify:album:75OByxAlIAlpqd5BhrtAAz,236103,Just Like the City,"Sara Bares, Scott Borel"
+370,Owen Duff,spotify:track:0LaDyYPN6uurztgKw6Qatf,spotify:artist:1X7n0ASm5m7S9deCBxEIl0,Our Bed Is a Graveyard,spotify:album:4BY7MZqQo6ZYTACYVsWQer,189309,bed,Owen Duff
+371,Blueboy,spotify:track:5rRAm0AhRDRY5d93fQgJk2,spotify:artist:6r0hXG2X4GSY1MNj4zLcXi,Boy Crush,spotify:album:5aNarGEeCbuExO4kZqGHAo,175009,Navigate,Blueboy
+372,Claud,spotify:track:7w76n5UvwlGrjZsgFm8ZYl,spotify:artist:5MaQlvNGOaTj39apHsXVq1,Tommy,spotify:album:5BjjgpESJZDI1ievIXFVsu,213478,Tommy,Claud
+373,Rufus Wainwright,spotify:track:5LMsuO1FZG13KXW7csNblJ,spotify:artist:2PfBzriIMRsCXPDtSy9vg8,Gay Messiah,spotify:album:2YdipZiyWiaa9N4fEPl8VM,226499,Gay Messiah,"Rufus Wainwright, Amsterdam Sinfonietta"
+374,Jessye DeSilva,spotify:track:7qc5uVtHzEqIeUq8iLO9Dy,spotify:artist:3LwQ83KEgmU9vdKMvlh0zJ,Worry,spotify:album:6IJB7Ldeb2t4c8BfNzNIkf,206376,Hover,Jessye DeSilva
+375,Faae,spotify:track:1HWcS0unMHA0TpKwhJ1Hpe,spotify:artist:1Bde758iiUtWhAdjeU4r79,marsupial,spotify:album:1GhRqnrQ22K94qhB1j6MuN,226415,marsupial,Faae
+376,Finn Anderson,spotify:track:6RGo5hYe6mD2IVrTXb3mzg,spotify:artist:1AaghaiuseHqI3wMM2W8NL,River Won't Wait,spotify:album:7xJDYfFd199fnvUj0ebQdN,192114,River Won't Wait,Finn Anderson
+377,Jake Wesley Rogers,spotify:track:6HJ7S4vJcNeqSRrS4jLJia,spotify:artist:5lEF4Tt1uK7Kuk80ILMlE9,Under the Sun,spotify:album:6Iwf7mZlw59EtjlnLPzki9,158141,Pluto,Jake Wesley Rogers
+378,John Grant,spotify:track:6Svc1fdIJ0PteZXQ4TF6Lv,spotify:artist:3TScZ6zJkavDy0tqoGqiCf,County Fair - Edit,spotify:album:76Ps9O5KUT0NZcv6JqpNvc,228923,County Fair (Edit),John Grant
+379,The Lazours,spotify:track:6bthOMjeEidMtM8hXRhHnh,spotify:artist:0JVteLcbvH9KKKsb9D55sk,Fran,spotify:album:5IUZKgrGKOUQMUVVIBxvdl,189000,Fran,The Lazours
+380,Jake Wesley Rogers,spotify:track:5DPwVhgevj57PZ3LlBMeVs,spotify:artist:5lEF4Tt1uK7Kuk80ILMlE9,The Pretender,spotify:album:4KGIQUQT6E0VbwbFZutY5V,191480,Spiritual,Jake Wesley Rogers
+381,Pikes,spotify:track:4TqEoafKpX51TnO21qHMzg,spotify:artist:3iYk1tEjUMPcs5roPxv533,Thylacine,spotify:album:5274KVSVet87meo5P0rNEN,104000,Manasollasa,Pikes
+382,Zoe Konez,spotify:track:0OYQ24ngz67JFs4GNWA3KL,spotify:artist:56zdMqayB3Ja8iwUmdKumu,My One Love,spotify:album:7vyeZWG3cqKtACjrQnNamP,80000,My One Love,Zoe Konez
+383,Kristóf Hajós,spotify:track:4Ee40EHrdpT2agDeuVYYNx,spotify:artist:0CuI5h0jQKlGjLP89B2KeL,Love is Cancelled,spotify:album:5LeYoFaQIJf5yAF8GTTvuL,308422,Love is Cancelled,Kristóf Hajós
+384,Bobby Guard,spotify:track:75rzaMnmCHgeyuwsxGrAqa,spotify:artist:4DCaSD2YuHkBuAYj5b47d1,Your Peace,spotify:album:3aS8Ffqfd5ivHh99jylcQX,253383,Your Peace,"Bobby Guard, Importer"
+385,boy cam,spotify:track:4A74rEokmBC1nXf1wtMmqi,spotify:artist:71hu9nXKCY91T5Dj2vijgh,I'm Happy Now,spotify:album:2RizbLChfs7zN9k0CU5gTW,271807,I'M HAPPY NOW,boy cam
+386,Austin Carr,spotify:track:1x9fUhjcQcSnjFXbwKIrz1,spotify:artist:7wbw9KslI7YzqujQRkxDrB,i don't wanna be your friend,spotify:album:4vsXBzWtUrqSQ72GsukwgR,165194,i don't wanna be your friend,Austin Carr
+387,Myylo,spotify:track:5YSzJkh3hbuab1I8OBYjbS,spotify:artist:2G4cli4GobgQphDeAaDyGr,I Do,spotify:album:6r3Ff9nD1daQMlrztIS76N,184910,My EP Era Is Over Now,Myylo
+388,Bobby Guard,spotify:track:0XUHRNm4yHhC9XcfURMFL7,spotify:artist:4DCaSD2YuHkBuAYj5b47d1,When All The World,spotify:album:2VdabjPhIE1ItTOGYBDvYN,298791,Stockholm,"Bobby Guard, Importer"
+389,Ben Platt,spotify:track:6AhoLcPx9fkz8BRqCZtZTL,spotify:artist:6qGkLCMQkNGOJ079iEcC5k,River,spotify:album:1os5Xk1g58ff2YwdKHCrCH,247606,Music From The Netflix Original Series The Politician,Ben Platt
+390,Bay Bryan,spotify:track:5YiMc9Shy3JewTGDfam2tM,spotify:artist:3AI7aR5cD9XZYk8Zha2vsX,Let Go,spotify:album:2SRbpQMdgY9IqOOXvjbX6u,210480,Let Go,Bay Bryan
+391,Noah Antonio,spotify:track:20Q8AAl0p1P5Qqjs1jdsmU,spotify:artist:3MNhlCDSWuMIWCd7QztEeL,Falling or Flying,spotify:album:0fwzruQ7Clu4QmyLdIsJjn,152961,Falling or Flying,Noah Antonio
+392,Julien Baker,spotify:track:5KDqYTqobAjzb4XzwjHJ53,spotify:artist:12zbUHbPHL5DGuJtiUfsip,Faith Healer,spotify:album:0KZ41Kat8EobCM31uRAjGi,174773,Faith Healer,Julien Baker
+393,Roger Perelló,spotify:track:6n4l8wd71xhvPNgTScw5LA,spotify:artist:4X8oWezsUAzuhjoO5AN9wx,i am what i am (your beloved man),spotify:album:1KAr43Jayhv8MjLtahVjKj,214000,i am what i am (your beloved man),Roger Perelló
+394,Sundaes,spotify:track:1lOiQDszsOgCICc9bnSFj0,spotify:artist:7qiXFwby9N5MEUFATBy5cp,boys who made me cry,spotify:album:3cfHsi4Gl3E0VL1QVeGPWL,257966,boys who made me cry,Sundaes
+395,Kristóf Hajós,spotify:track:3QpcC7bd7V1Lc3nwNjLKud,spotify:artist:0CuI5h0jQKlGjLP89B2KeL,Dancing to Sirens,spotify:album:75mNlga985tKhDpso3Zabp,249598,Dancing to Sirens,Kristóf Hajós
+396,John Grant,spotify:track:4mUnxOTWwlLoh3rMXWYsuc,spotify:artist:3TScZ6zJkavDy0tqoGqiCf,Marz,spotify:album:4odAbJvNXwZZUp20xWmZQp,238000,Queen of Denmark,John Grant
+397,Tess Hannah,spotify:track:2dtZNlIjeNhjhDV5w1JQZp,spotify:artist:2SADEaoF11QGXNDx9c6s1d,Closer,spotify:album:6GcIDZtyhZ0KgXO962Zw6a,215073,Closer,Tess Hannah
+398,Owen Duff,spotify:track:0AW845DiPvcQ8BuAkU0YWv,spotify:artist:1X7n0ASm5m7S9deCBxEIl0,One Word,spotify:album:51Hwytf58JjhgIIBEgASVp,186250,One Word,Owen Duff
+399,K Anderson,spotify:track:2D8vRRfI0DrJqoaIDIwSyf,spotify:artist:2hemxJSBMzRDDHNL6eBVXj,This Changes Everything,spotify:album:18VRx5ExronhccI6oOZjkh,210026,The Overthinker,K Anderson
+400,a balladeer,spotify:track:2MfyphgyjIrH8jIvktfVxc,spotify:artist:5MUNbMtqB3EOKxwSJBVJ1U,Hail Mary,spotify:album:1QmfffQPNDMCRzzfzLlaCA,152747,Hail Mary,a balladeer
+401,Perfume Genius,spotify:track:4vOGLbzSAo8wUsbYmwNrky,spotify:artist:2ueoLVCXQ948OfhVvAy3Nn,Alan - Rework,spotify:album:4VF8FSlWKLFPL8PhwU9wfW,179839,Alan (Rework),Perfume Genius
+402,a balladeer,spotify:track:0nbKoxS3zE4o8xrga5duqV,spotify:artist:5MUNbMtqB3EOKxwSJBVJ1U,Seashell,spotify:album:5gyKDPdJDVde5iA6A0qk12,58217,"Clutter, Volume 1",a balladeer
+403,Owen Duff,spotify:track:7se9CuzpXCRXgMpMg2k9F8,spotify:artist:1X7n0ASm5m7S9deCBxEIl0,Genet on Uranus (The Story of Us),spotify:album:3OV6GJhSjeTg5nsU58fJqL,229500,Genet on Uranus (The Story of Us),Owen Duff
+404,Jak Woodlawn,spotify:track:5VUglB1pp0iGwJaQ1hJoEz,spotify:artist:60bENqTTOe6AJTRGMDxFH7,A Blissful Lie,spotify:album:2nSiMhqwHO7Ly9UNH73G22,235714,A Blissful Lie,Jak Woodlawn
+405,boy cam,spotify:track:1oyqVsLk6KU6B1m7ueApQ5,spotify:artist:71hu9nXKCY91T5Dj2vijgh,November Son,spotify:album:6cnaHhwquyGlSRafmLA2aA,238488,November Son,boy cam
+406,Villagers,spotify:track:2t5USj2lH8pPII6ox2Hch0,spotify:artist:2m1l9MLSslzup4vvokKgvQ,Hot Scary Summer,spotify:album:1hrv3F7Fbi9gMPkkcwCxRG,260053,Darling Arithmetic,Villagers
+407,Sam Bettens,spotify:track:06elnsklBElsBIWgNeLwKH,spotify:artist:0gyiTtRKu5DgzfxAWO8zmS,Brother,spotify:album:3jte8sfNhYEh1iOF6onWQ6,207540,Belpop Helden,Sam Bettens
+408,boy cam,spotify:track:3VVfJkaaBZtRcERn7P82j6,spotify:artist:71hu9nXKCY91T5Dj2vijgh,I Know Better,spotify:album:2xBIW2a22aiG7S2ffLMYtb,201230,I Know Better/ Valentines Day,boy cam
+409,Kae Tempest,spotify:track:67nOd8IqBeaWD2xSg2NuER,spotify:artist:1YcprGtF13BYCZQK9jYPEw,Hold Your Own,spotify:album:1SwvcCnfC9boKSuWCMKPB4,247013,The Book Of Traps And Lessons,Kae Tempest
+410,Nakhane,spotify:track:2YThnoRP3m072ODjiWiaN6,spotify:artist:2nrShcJFP8D5bQT8RgdBhH,New Brighton (feat. ANOHNI),spotify:album:0BAdhekfVcLtO9LbQHvzSy,199413,New Brighton (feat. ANOHNI),"Nakhane, ANOHNI"
+411,Ryan Cassata,spotify:track:40YpT3erF0PwY3KyaqOZh0,spotify:artist:0tFlCZaGI6bC1XxtfzIhmG,Steadfast Love,spotify:album:4RejnG6p2fySYhlYU5p0U8,214869,Steadfast Love,Ryan Cassata
+412,Ezra Furman,spotify:track:3UttoFuefvspv7otEjCQyu,spotify:artist:1uR7zoLrSRI8bSL43OZ0GY,The Queen of Hearts,spotify:album:0d5VbUpz8dcGC17Jkm3og4,297077,Sex Education Original Soundtrack,Ezra Furman
+413,Kristóf Hajós,spotify:track:1doXzITOv3Ag0BRTzenrs1,spotify:artist:0CuI5h0jQKlGjLP89B2KeL,Bitterfly,spotify:album:7dLInvFl1kLzDyX9BVj12d,312480,Bitterfly,Kristóf Hajós
+414,a balladeer,spotify:track:7C4cuZd8s05UxJzLPh3Mal,spotify:artist:5MUNbMtqB3EOKxwSJBVJ1U,Poster Child (For Matthew Shepard),spotify:album:5gyKDPdJDVde5iA6A0qk12,251401,"Clutter, Volume 1",a balladeer
+415,girl in red,spotify:track:1BYZxKSf0aTxp8ZFoeyM3d,spotify:artist:3uwAm6vQy7kWPS2bciKWx9,we fell in love in october,spotify:album:4oRcMHsdNG9IAF3xwv1kWu,184153,we fell in love in october / forget her,girl in red
+416,Caleb Sanders,spotify:track:0TeoBYeBWlmy1Fbjsfm7dX,spotify:artist:2J15jSwWcT6x5O0TE1aZuF,if i called u up now,spotify:album:0O4cAgR7NCTSjYvFzVGNZx,316463,if i called u up now,Caleb Sanders
+417,Bobby Guard,spotify:track:6c9ylTezcoNKxWRnEVxbXF,spotify:artist:4DCaSD2YuHkBuAYj5b47d1,Meshes of the Afternoon,spotify:album:4vtHG0uNoNxn3BgnwDZ7QC,284749,Meshes of the Afternoon,Bobby Guard
+418,The Irrepressibles,spotify:track:33vDXztradlEuqKLz5BRRZ,spotify:artist:1v5bOzXbhrQ57qSvRwGA6s,Two Men In Love,spotify:album:762A3Z51nqkzTN4HgOY9Cs,386773,Nude,The Irrepressibles
+419,girl in red,spotify:track:1pUyZuge2qoSG1nzDxftQJ,spotify:artist:3uwAm6vQy7kWPS2bciKWx9,two queens in a king sized bed,spotify:album:38v3Ga4U869AXC0BKIzuXG,190944,two queens in a king sized bed,girl in red
+420,Bobby Guard,spotify:track:2p5wVHwLRvR37Iq27cc281,spotify:artist:4DCaSD2YuHkBuAYj5b47d1,Can't Go Back,spotify:album:2VdabjPhIE1ItTOGYBDvYN,298114,Stockholm,"Bobby Guard, Importer"
+421,Arjan Brandsma,spotify:track:0JviOURQuqLt6IMyCjkwgO,spotify:artist:14SstcSSMdHOOW0SXbghcQ,Pool Full of Sharks,spotify:album:157kAoXYBfzoLuf2vlT7GJ,160000,This Could Have Been as Honest as It Turned out to Be,"Arjan Brandsma, Scott Matthew"
+422,Tawnted,spotify:track:4jRIKgidp6wFbrMcZPzfyW,spotify:artist:7zh1uCj4XNxdWhuRVdc1tR,Take Him Out,spotify:album:4rYlfa1IGW4cEQYG8rN2kb,209789,Monster in the Sea,Tawnted
+423,Rufus Wainwright,spotify:track:2lMq59nXGGPlbiOYLmckyE,spotify:artist:2PfBzriIMRsCXPDtSy9vg8,Danny Boy,spotify:album:2JxiIMVQkVpzLIWozdnxNb,372066,Rufus Wainwright,Rufus Wainwright
+424,Jens Lekman,spotify:track:08jsYBXCroPsmnFe0VtoBK,spotify:artist:7tzI4rSFTHafjF18ZrNZWx,How Can I Tell Him,spotify:album:1hXSxD7wpxEHXiLkk69EaQ,236533,Life Will See You Now,Jens Lekman
+425,Jay Brannan,spotify:track:28RhfoyLKZDygmnedAaJQn,spotify:artist:2F3dZJv3K7T5sLthbp8vYa,No Ship,spotify:album:3LN0eBnl4O4QfuVoljPIvl,86069,"Always, Then, & Now",Jay Brannan
+426,Villagers,spotify:track:29cGfa8fGfVZActq8xVwNd,spotify:artist:2m1l9MLSslzup4vvokKgvQ,Little Bigot,spotify:album:6LpyfIYJM8rjo9fpCmZhx1,229000,Darling Arithmetic,Villagers
+427,a balladeer,spotify:track:4jo0CdeljCiQMR1Xq4tf29,spotify:artist:5MUNbMtqB3EOKxwSJBVJ1U,Mob Wife,spotify:album:78Esd2SrbTDZXX2vrIgxXU,353859,Mob Wife,"a balladeer, Sarah Bettens"
+428,Antony and the Johnsons,spotify:track:09ZGF6mwJVzw5jxqbtT53E,spotify:artist:4fxp616ALtFWnXfwxnjLzW,Hope There's Someone,spotify:album:0hiJeb1ycFFXyW12j61sfB,261200,I Am A Bird Now,Antony and the Johnsons
+429,Lukas Clay,spotify:track:3Fve9HLY7qi0fnzXRYuR8k,spotify:artist:0nrkMZHfaOexeievF7ozlp,Wasted Lies,spotify:album:3QLWOMOVKvZViU8HTaR9ex,272363,Wasted Lies,Lukas Clay
+430,The Unbending Trees,spotify:track:0KOEBn2aQAlytdK8wKO89H,spotify:artist:3xs9xR7cc4BWQms8pLNVfL,Alfred's Lovesong,spotify:album:3mD6bWGmNphH7l7CzrSHHn,173293,Chemically Happy (Is The New Sad),The Unbending Trees
+431,Nuno Freitas,spotify:track:5Stenwg64cSyQG3zMDTdpF,spotify:artist:6VrXMP8axmz3yZDyfg6Wx3,Blue,spotify:album:0NlLhxr3AW22Y3XlJfIRMo,111904,Blue,Nuno Freitas
+432,K Anderson,spotify:track:48jBzw9xQyddW036qQsREk,spotify:artist:2hemxJSBMzRDDHNL6eBVXj,14 Year Old Me,spotify:album:5oY4oozC9s6StQYjrblb9L,199803,14 Year Old Me,K Anderson
+433,Lukas Clay,spotify:track:1rjCRbXIs77TphczSeEofA,spotify:artist:0nrkMZHfaOexeievF7ozlp,Wasted Lies - Reprise,spotify:album:3QLWOMOVKvZViU8HTaR9ex,149363,Wasted Lies,Lukas Clay
+434,Jay Brannan,spotify:track:0m6wuhky6qGYJ9GTVaK9vD,spotify:artist:2F3dZJv3K7T5sLthbp8vYa,Home,spotify:album:6PWMQlQPIQPkfGsqxfmZHl,231306,goddamned,Jay Brannan
+435,St. Vincent,spotify:track:1AuFtTcYdOsNmePbMCh9T4,spotify:artist:7bcbShaqKdcyjnmv4Ix8j6,New York - piano version,spotify:album:3XwQPcRrrSNxETjuD5ka5r,168346,MassEducation,St. Vincent
+436,Jake Wesley Rogers,spotify:track:2rj5WY52j0RQJWYxBNCRFT,spotify:artist:5lEF4Tt1uK7Kuk80ILMlE9,Little Queen,spotify:album:5rxeZVfhrHNVX6SxXmau5j,223746,Little Queen,Jake Wesley Rogers
+437,Rufus Wainwright,spotify:track:36BLqdTQ0JZ1tLdugTlCl9,spotify:artist:2PfBzriIMRsCXPDtSy9vg8,Sword of Damocles,spotify:album:0QGM9PVYGnJ1eSAD7czn2P,333609,Sword of Damocles,Rufus Wainwright
+438,River Westin,spotify:track:75MIDI4x2cEsKMG98c1UUE,spotify:artist:2lMUxSSN84QWXoYTr02xCY,The Lake - Acoustic Version,spotify:album:0iVsZPCBJml5ABOmPf9rja,184741,The Lake (Acoustic Version),River Westin
+439,Tom Goss,spotify:track:08pwsrjiqkhF4cge4S2CdD,spotify:artist:1zLAXcROEhMZL9IhVu5Vvh,Son of a Preacher Man,spotify:album:0V6lBbiIuc9s3ksSc4ugiK,210279,Son of a Preacher Man,Tom Goss
+440,a balladeer,spotify:track:4HPi4jEoavUKasQEvMb0EO,spotify:artist:5MUNbMtqB3EOKxwSJBVJ1U,Let It Snow - Reprise,spotify:album:5gyKDPdJDVde5iA6A0qk12,58568,"Clutter, Volume 1",a balladeer
+441,a balladeer,spotify:track:5CnwaTCMe0oVBdlcJ1WVa7,spotify:artist:5MUNbMtqB3EOKxwSJBVJ1U,Hat in Hand,spotify:album:78Esd2SrbTDZXX2vrIgxXU,158552,Mob Wife,"a balladeer, Sarah Bettens"
+442,St. Vincent,spotify:track:2stcQY2OjzSIdk3I9Y1sCW,spotify:artist:7bcbShaqKdcyjnmv4Ix8j6,Slow Disco - piano version,spotify:album:3XwQPcRrrSNxETjuD5ka5r,150706,MassEducation,St. Vincent
+443,Benjamin Gibbard,spotify:track:2AjsMkPcC7mCs5F2E00taI,spotify:artist:4CvZd3qzC2HbLxAoAEBRIL,And I Love Him,spotify:album:1Roqqh9z76dk77g98fiR2E,162933,Universal Love - Wedding Songs Reimagined,Benjamin Gibbard
+444,Jónsi,spotify:track:73hatfRwTBBoWNxKiq9GQW,spotify:artist:3khg8RDB6nMuw34w1IHS6Y,Boy Lilikoi,spotify:album:1fgtiyeUDIoUayYbwroqVH,269760,Go,Jónsi
+445,dodie,spotify:track:45h4w81P5iJJTSeR0jJUQ8,spotify:artist:21TinSsF5ytwsfdyz5VSVS,She,spotify:album:6Kr92CEAh6YLlEO8ubps17,213611,Human,dodie
+446,Jay Brannan,spotify:track:3FDKxJ2LmNBqvynXbqJVSN,spotify:artist:2F3dZJv3K7T5sLthbp8vYa,Imperfect Lover,spotify:album:4IWVZbr969rmqBGHMvlfuR,298933,"New York, New York",Jay Brannan
+447,Catey Shaw,spotify:track:6AWNMwzTLtF3OOhuekWvCW,spotify:artist:5nfow6tv4Dtm6K4WHzczBI,Night Go Slow,spotify:album:1wHOjPgthvvf35Hne9XCbB,199842,The Brooklyn EP,Catey Shaw
+448,Mary Lambert,spotify:track:2px10xaPpeVd2bLLZBGBD9,spotify:artist:5Z2NUZiY3FA00HKu5WTMhA,Know Your Name,spotify:album:4clcuZbC3cx8c0jfSt5P30,244933,Bold,Mary Lambert
+449,Lady Gaga,spotify:track:554PnB96IltLzVlbinBstw,spotify:artist:1HY2Jd0NmPuamShAr6KMms,Hey Girl,spotify:album:2ZUwFxlWo0gwTsvZ6L4Meh,255413,Joanne (Deluxe),"Lady Gaga, Florence Welch"
+450,Ani DiFranco,spotify:track:2nBB42lNmkh8qlzEUOmEwI,spotify:artist:0AiTwNtYX8m4uhfU7rJ8RD,If It Isn't Her,spotify:album:6yIQT5AvjFQ0kRo3RxBN6n,237826,Imperfectly,Ani DiFranco
+451,Tegan and Sara,spotify:track:0euRZeEKvdbptPpebwDtLc,spotify:artist:5e1BZulIiYWPRm8yogwUYH,Boyfriend,spotify:album:0zqoBumDciJGNoOsvfTP5U,167253,Love You to Death,Tegan and Sara
+452,Hayley Kiyoko,spotify:track:5btaVjrLBxTvXNmCv5DrW2,spotify:artist:3LjhVl7GzYsza1biQjTpaN,Curious,spotify:album:2oRkkW6ZudviRBd6mx4CfL,183280,Expectations,Hayley Kiyoko
+453,Halsey,spotify:track:2TBQoW7s6iwKcg139ssqie,spotify:artist:26VFTg2z8YR0cCuwLzESi2,Bad At Love,spotify:album:1fV3TdIojhb9lQXd72HiPq,181279,hopeless fountain kingdom (Deluxe),Halsey
+454,Etta Bond,spotify:track:0Ge1HubxyHeLkpkb3OTmnU,spotify:artist:0zanHkxN0P38oWegA8iSQA,Kiss My Girlfriend,spotify:album:5XE42HojwvyhpKM9Fs1uI1,230875,Kiss My Girlfriend,"Etta Bond, Chris Loco"
+455,Sophie B. Hawkins,spotify:track:0RmEn2jcbyrLV4em3bnDZJ,spotify:artist:3gdIwZY6Q3RXhDteYr4ZvC,Damn I Wish I Was Your Lover,spotify:album:191wfG4xD0VAgJH7rJ97iD,323400,The Best Of Sophie B. Hawkins,Sophie B. Hawkins
+456,St. Vincent,spotify:track:1mVj7sdHn0zjcjON0v1ShS,spotify:artist:7bcbShaqKdcyjnmv4Ix8j6,And Then She Kissed Me,spotify:album:1Roqqh9z76dk77g98fiR2E,126533,Universal Love - Wedding Songs Reimagined,St. Vincent
+457,dodie,spotify:track:4hjbxjZpJ8H6qRCzDOGI0M,spotify:artist:21TinSsF5ytwsfdyz5VSVS,Sick of Losing Soulmates,spotify:album:6QBJTOxkR7sM0snlvzD4d2,267377,Sick of Losing Soulmates,dodie
+458,PVRIS,spotify:track:7eN3lGwu6SSmwYGH9PlpYa,spotify:artist:6oFs3qk4VepIVFdoD4jmsy,Heaven,spotify:album:0jLafOidtMogAbdIjOXXIe,254358,"All We Know Of Heaven, All We Need Of Hell",PVRIS
+459,Tove Lo,spotify:track:1TIiWomS4i0Ikaf9EKdcLn,spotify:artist:4NHQUGzhtTLFvgF5SZesLK,disco tits,spotify:album:6jggnLM3SdDnjQ3GWmIZ4L,223794,BLUE LIPS (lady wood phase II),Tove Lo
+460,Kesha,spotify:track:0nv25WB0VNBeec3XLvp0fg,spotify:artist:6LqNN22kT3074XbTVUrhzX,I Need a Woman to Love,spotify:album:1Roqqh9z76dk77g98fiR2E,268840,Universal Love - Wedding Songs Reimagined,Kesha
+461,Tracy Chapman,spotify:track:2M9ro2krNb7nr7HSprkEgo,spotify:artist:7oPgCQqMMXEXrNau5vxYZP,Fast Car,spotify:album:6hmmX5UP4rIvOpGSaPerV8,296800,Tracy Chapman,Tracy Chapman
+462,Frankie Simone,spotify:track:7IgUWG8jL087IoXsQOfnjm,spotify:artist:1QNIcC3tJ4EKXsCKnqwajy,Queer,spotify:album:7quK0eqINhOVQRZUuSZ6Qa,187105,LOVE//WARRIOR,Frankie Simone
+463,Zolita,spotify:track:2IUZ5ifH9R13RoK8X70lgF,spotify:artist:7nnTzZ5tZrPx14iDnmjksU,Come Home With Me,spotify:album:5BfoUXzblFJcVAqIjy3rJx,216971,Sappho,Zolita
+464,The Veronicas,spotify:track:7MFvqBJ3ozTwDrf5VfoW8U,spotify:artist:1dIdBZaaHRW2bDTkHNfWln,Take Me on the Floor,spotify:album:6aL2SwYj5kSEvIcYORHP37,210480,Hook Me Up,The Veronicas
+465,Gina Young,spotify:track:5XUZUnnvjObWveOA9fpO7L,spotify:artist:0U64coxrK2Wm5s2PmApkBn,So-Called Str8 Grrrl,spotify:album:4UH7wsiFLZ6yvw24HGzh1J,124653,Intractable,Gina Young
+466,Kate Nash,spotify:track:1BQDCBf8fep2LdWAl1yeZw,spotify:artist:5vBKu1igxFo6g1sHADkIdg,I Wanna Boyfriend With a Car,spotify:album:6W36GnLwIweZmrBvLXI6j5,148680,Death Proof - EP,Kate Nash
+467,Gia Woods,spotify:track:6Xaf3HcFJhY0P2KjRDEKgs,spotify:artist:6T56xtTEllGW17snjAZLNP,Only a Girl,spotify:album:6pki2j5FzShqZoojdjCjvM,213159,Only a Girl,Gia Woods
+468,Lauren Sanderson,spotify:track:4dWz6JF3aahRCT8StKWYO9,spotify:artist:06vRrrjT3DBRkhBlXoBdYj,Palm Springs,spotify:album:7j27icwywFox6FrTxTDTxP,170397,Center of Expression,Lauren Sanderson
+469,"Now, Now",spotify:track:3opSfLvpDbZVG0ecreiL4M,spotify:artist:6ZitSwtBSGqj00w11GvMU3,SGL,spotify:album:3wat6tT5YMZ1f8cuyBxRTm,194437,SGL,"Now, Now"
+470,GRLwood,spotify:track:4b1AVfnXbweineQSzN6XaP,spotify:artist:0yrzVTuk6PgF51NYgfgKXe,Bisexual,spotify:album:4l3AvPlLKKJNUhYyce9ZQa,120341,Bisexual,GRLwood
+471,Luna Blake,spotify:track:1WVWOXTueYeeYfBiGMOIjW,spotify:artist:0nlxwhgmNOqEDUWIrcwghr,Horizon,spotify:album:6OqF1S8uGM58BSIjHkXTU4,203880,Horizon,Luna Blake
+472,The xx,spotify:track:5CPqOpKSk0QcJ3dGdaWcRB,spotify:artist:3iOvXCl6edW5Um0fXEBRXy,On Hold,spotify:album:2PXy9USZAoTSdtrxfkPBnl,224133,I See You,The xx
+473,Jen Foster,spotify:track:7j3lAZQJpUHTT1DfXQKnER,spotify:artist:4Nwq3oDSohIu7XBy5Df53C,I Didn't Just Kiss Her,spotify:album:0bzg4rGEpLGz6VeIMCf7pB,181733,The White Room Sessions,Jen Foster
+474,Cœur De Pirate,spotify:track:3BROl8FUuHPJ6Swvv29PFi,spotify:artist:2eRNMtoi82UZUuaL6naDjA,Prémonition,spotify:album:0A9bRihBwAmfudignnjtXL,177693,"en cas de tempête, ce jardin sera fermé.",Cœur De Pirate
+475,Sia,spotify:track:4VcmwsJTnbO8Q9ABYnNAiE,spotify:artist:5WUlDfRSoLAfcVSX1WnrxN,The Greatest,spotify:album:65SUPjKr59ncdHY2LxeYiz,210920,This Is Acting (Deluxe Edition),Sia
+476,King Princess,spotify:track:53jbdPQBaH6WaQvW0zmGBs,spotify:artist:6beUvFUlKliUYJdLOXNj9C,Talia,spotify:album:5Z9ThGv7MrUjdZJREO9GOF,207720,Talia,King Princess
+477,Courtney Barnett,spotify:track:78WZjgNZuIEb8yOQOOvbA1,spotify:artist:4OOlG5eBXSkSAAEeKjJb5Y,Charity,spotify:album:2ewbfsDYWpTxIfPFftdSty,250120,Tell Me How You Really Feel,Courtney Barnett
+478,Donna Missal,spotify:track:4tjiivmWTWMLeFiLDuQpdG,spotify:artist:4QFHHdZkeqmneDQqKIjAN8,Girl,spotify:album:5KOz4nicWdTO5isezQXHLd,229866,Girl,Donna Missal
+479,k.d. lang,spotify:track:0wCrg1LhgPcGMw51qqpI6k,spotify:artist:6W1BHDF0T4a4KYcSwzD586,Constant Craving,spotify:album:22TXLyA5GOT19O9hIdAHLE,277240,Recollection,k.d. lang
+480,The Aces,spotify:track:5YY6Z7YnjGOPxYy8ooZmLC,spotify:artist:2AmfMGi3WZMxqFDHissIAe,Volcanic Love,spotify:album:2lsQE89fPFInz2J62K6waw,205977,When My Heart Felt Volcanic,The Aces
+481,Shannon Saunders,spotify:track:4A6tXDSHlNmSVGAhYjM3jq,spotify:artist:0R99HoFbo8665kwfOtbvxb,Atlas,spotify:album:5yWZ80J9HQTfHFJcVkU3NR,217125,Atlas,Shannon Saunders
+482,Kelela,spotify:track:1IMXP55WFCNNKWN1iyjhim,spotify:artist:1U0sIzpRtDkvu1hXXzxh60,Onanon,spotify:album:6pw1XPub1bSMq03ASVqRVu,271564,Take Me Apart,Kelela
+483,Ji Nilsson,spotify:track:6fsDOOHoe0qH0GLB4Aqwqf,spotify:artist:4gXoprttD6M0HwTqQNsxOY,Proud,spotify:album:17RObh2peMLwPMXg9OKuvd,186573,Proud,Ji Nilsson
+484,Austra,spotify:track:47XIhh2fd9Cwi7o9NhzbzD,spotify:artist:1o43SzzuLoyOxqThmp7s0g,Painful Like,spotify:album:1YPEIFsbeW9mJ1vCdFt8ci,239586,Olympia,Austra
+485,Whitney Lindquist,spotify:track:1OvK0albaOlQp4in5SIo4W,spotify:artist:118P2e7JBu0x9T4C6N39a0,Her,spotify:album:79gF42mhwz8EmD1IGYXhGv,230317,Stripped,Whitney Lindquist
+486,Demi Lovato,spotify:track:73Qlt0XuhuYzEigjitm2ze,spotify:artist:6S2OmqARrzebs0tKUEyXyp,Cool for the Summer,spotify:album:4HLTw1RgvSZkSLAc3pU9kU,214739,Confident (Deluxe Edition),Demi Lovato
+487,Alyson Stoner,spotify:track:2WSZRMMVKMdJG7S3KqrtlH,spotify:artist:5ZuWrQzWBgJXbAfcLx2WTL,When It's Right,spotify:album:2JqLLVBCNDduvgXYPlpyfG,166315,When It's Right,Alyson Stoner
+488,Nakala,spotify:track:4BfaaZIHfLSXwSVh4y96FX,spotify:artist:4dw1gYD42SHeDoxl7SKDhS,OTT,spotify:album:3s6mmajjhWWx1EUxIdZwHz,201000,Owe It To You - EP,Nakala
+489,Beth Ditto,spotify:track:5yHmkXEK225be9S7A5VpaF,spotify:artist:7y8lzaGqtadGmtAtg2SGv4,I Wrote the Book,spotify:album:3tALUE6LjM6TyHQ1MufW6w,204880,EP,Beth Ditto
+490,Avalon Young,spotify:track:0bRYfN2oTP0HcKA8WsBUQ7,spotify:artist:0J8scIzEPTBSRTqzL9GnCv,Sweet Talk,spotify:album:1zlO3C2jS3ASlqRLEQyZa7,177931,Sweet Talk,Avalon Young
+491,Tiffany Gouché,spotify:track:5Pc6e95PaTPy0RsnL9MBgb,spotify:artist:2IEnjZsVDEPKUTxNinyqba,Dive,spotify:album:3amn5vqSUNI86LAdIRDN4b,206431,Dive - Single,Tiffany Gouché
+492,Young M.A,spotify:track:5rTA7RosLJvZZ3UrsYqV7F,spotify:artist:7LvoDJUNGnOrPdGRzVtOJ9,Bonnie,spotify:album:23Fvpx2T1drg9lJ4WC0fXl,204391,Herstory,Young M.A
+493,be steadwell,spotify:track:49pJ5Y5tKtyhwrNCjTJ6PA,spotify:artist:3u5pK1PzrhvlC0shYIJ1Tl,Netflix (feat. Asha Santee),spotify:album:0dxiRy5tK8dUwTJ3w911mR,158493,Queer Love Songs,"be steadwell, Asha Santee"
+494,Meshell Ndegeocello,spotify:track:7G7KEYi11RGKKBMOTS29pa,spotify:artist:0uZRjholJ0fVC2J9EvnYnj,Sometimes It Snows in April,spotify:album:31HcIpZ9GOo9aKUPYwV3kG,425219,Ventriloquism,Meshell Ndegeocello
+495,Kodie Shane,spotify:track:7JmwjDvhHti8qvgGR2iuZv,spotify:artist:1CUeN4GnHAGUk9nAXPorF4,Kissing Pink,spotify:album:5A9u1cGERDRjW2wDLSSq4s,155115,Kissing Pink,Kodie Shane
+496,Savages,spotify:track:1Wq2ujMsdwMHDBkG1aCYCv,spotify:artist:1WFsBUAgQmrGQQEUyFKS60,Husbands,spotify:album:0aMC5DDAF86GvYNPaivEKd,170133,Silence Yourself,Savages
+497,Daphne Willis,spotify:track:663uroxaoZPo9nuZYGibBA,spotify:artist:40Qm9cpj6FlrkoL1sziJ2S,Do It Like This,spotify:album:5TwUVS3aNDbUEFp4BAS0DF,161379,Do It Like This,Daphne Willis
+498,The Harmaleighs,spotify:track:5dHtvNePlL1IkYOK6hi4ZP,spotify:artist:0JpiOyzO3e8FYCsDe8EaUN,Every Single Night,spotify:album:2TOpxHZUwdfUCNvyYK1nHJ,266610,Every Single Night,The Harmaleighs
+499,Melissa Ferrick,spotify:track:0N9Y3D354Co14ZckMT7VCu,spotify:artist:6t9IqIePOaGmN4dsL5qQgS,Drive,spotify:album:76zsDgBCzR2eoYxplxHagj,395466,Freedom,Melissa Ferrick
+500,Miley Cyrus,spotify:track:6aP62822amG9iAvSIPffBr,spotify:artist:5YGY8feqx7naU7z4HrwZM6,She's Not Him,spotify:album:5xG9gJcs9ut3qDWezHUlsX,213960,Younger Now,Miley Cyrus
+501,Angel Haze,spotify:track:66Cl8DBb0lN92Zxc6DuzRe,spotify:artist:2cyyGl4qnHZL0o16t0fpJl,Moonrise Kingdom,spotify:album:1MxoNDGYqAgNg3Y7zlaxGi,267383,Back to the Woods,Angel Haze
+502,Sizzy Rocket,spotify:track:2mOUGinvOzTwfy0btUk0qp,spotify:artist:2CBvbVxhd3ZJXRTCl88H7E,Bestie,spotify:album:32WQrb1hs7N3dgp1fSeRi6,209893,THRILLS,Sizzy Rocket
+503,Pia Mia,spotify:track:6fhWH0doyn7cSOgjgsuLPh,spotify:artist:1BhWF9W2PngtPSyobKg0rP,"Hold On, We're Going Home",spotify:album:3sHGkl7UfE9JGDLv5sC7H5,181600,The Gift,Pia Mia
+504,Moaning Lisa,spotify:track:7F80RFbX4viYZvkGGlbqov,spotify:artist:1WXcSHJO5BPd3oxAfsUDQo,Carrie (I Want A Girl),spotify:album:1FYLeOEhhhHZkICwAeXQLE,235885,Carrie (I Want A Girl),Moaning Lisa
+505,Lipstick Homicide,spotify:track:4MYEpjYsQ4EdKnUQAp3v1V,spotify:artist:5J6uj0yBahnpt2roe5lY6t,Rockerchick,spotify:album:1fMyx8BL42U5SygIIhXnbX,126760,Out Utero,Lipstick Homicide
+506,Jessica Manning,spotify:track:4PNQULKmjgECmNIbItMDPY,spotify:artist:495DZlpFUSFRNJLDpeBYKf,Kiss Me,spotify:album:6uFeHu1f4Lc6x4JnTUkeQw,256666,"Covers, Vol. 4",Jessica Manning
+507,girl in red,spotify:track:5rDzL33WiYowiXlZhwWvst,spotify:artist:3uwAm6vQy7kWPS2bciKWx9,girls,spotify:album:7fnNlZ1txYTCsfhIja9XLj,198400,girls,girl in red
+508,WILLOW,spotify:track:0RCpze7hmowZIGUJs9Dm7w,spotify:artist:3rWZHrfrsPBxVy692yAIxF,Marceline,spotify:album:0wfne2JijoxJm0qzJd3V5h,136760,ARDIPITHECUS,WILLOW
+509,Princess Nokia,spotify:track:6M1sRwraMMNUVCLUvo4e1B,spotify:artist:6lay1nwbE6hTx1jivysUAL,Tomboy,spotify:album:0HDrblLFAsyyytu3xKtbnL,217439,1992 Deluxe,Princess Nokia
+510,Chynna,spotify:track:4NPbQGqPwjpLkgu28AYjOA,spotify:artist:41TSOINjztNAFtwuGenWVA,bets,spotify:album:4FsH8LooSRDH53HhEPe8hz,138612,music 2 die 2,Chynna
+511,Cara Delevingne,spotify:track:2oG6KxenlD7xNmzUGZY9xD,spotify:artist:4sv0K6oriSqkSI5O9bQbmd,"I Feel Everything - From ""Valerian and the City of a Thousand Planets""",spotify:album:28Hb0B0RZsMGA386iCx4Mj,182760,"I Feel Everything (From ""Valerian and the City of a Thousand Planets"")",Cara Delevingne
+512,Ria Mae,spotify:track:20PcmTRTw6CPlMYRiSCtd5,spotify:artist:3QvuHlyW42Ei3AyGOO4AMT,Girlfriend - Stripped Down,spotify:album:5wyfggn0KUKcXcByx1cbAk,186144,Girlfriend (Stripped Down),Ria Mae
+513,Ängie,spotify:track:0LLnI7kJ6FSwomGoWIx01U,spotify:artist:3pgtze01npIBY3DCDD5flw,Housewife Spliffin',spotify:album:6GGNIAmN6fUT5JEflIF8CC,201733,Housewife Spliffin',Ängie
+514,The Blow,spotify:track:2nyuP0aVQ4mdGM5VE7AbsN,spotify:artist:3VNDPLoRirZi28lxSEYkZQ,"""Come On Petunia""",spotify:album:2XDq3rvACjwYoiSI5Be3BE,226786,Poor Aim: Love Songs,The Blow
+515,Syd,spotify:track:0IaiJbZebXLqfetAkMEZzU,spotify:artist:3jk39CGeaaSO3FPKNx1RUx,Body,spotify:album:59Bbr32pMTFHlUb8Nv1Kr0,262053,Fin,Syd
+516,Lowell,spotify:track:0CatI2bU3aCGe05pJsPGuF,spotify:artist:3MJ2o2vTovueQARKmOzHls,Cloud 69,spotify:album:10uoDqvsI31bw5oouIbsWr,222973,We Loved Her Dearly,Lowell
+517,Soko,spotify:track:7dnrJItpF3gZ1OkmH4wUW6,spotify:artist:4Q3f2YYH4gQxWFS3WY5G3j,First Love Never Die,spotify:album:3cHXwn0MrO70sTxVRY5mij,262226,I Thought I Was An Alien,Soko
+518,Kaki King,spotify:track:2IeOgn7m7SnlAE5fquVutV,spotify:artist:1s2pki7lATUaBOL76E3vCV,I Think She Knows,spotify:album:2DWzJZWQBEttYUP8X9bDUG,184813,Guilt By Association Vol. 2,Kaki King
+519,Missy Higgins,spotify:track:2mjwGMDY5Io7GtGfAn00LL,spotify:artist:6aP8ry8w3bSNyfyqhE8rGf,Secret,spotify:album:5a0yup4Q20b2TxoW5dWKI3,248480,On A Clear Night (Deluxe),Missy Higgins
+520,Maris,spotify:track:5gOk0ahAp9m0qJgrPnte7y,spotify:artist:09bKmqPEgvIbqhkiO7fIU6,Boys,spotify:album:58bMYyOTOielgUowqZuBw3,179813,Boys,Maris
+521,Shura,spotify:track:2ylVfK4pVfeSV4zxieyT2B,spotify:artist:1qpR5mURxk3d8f6mww6uKT,Touch,spotify:album:2igeHhP9UZ7ko10H1K0DbP,214555,Nothing's Real,Shura
+522,Dream Wife,spotify:track:6nVEkpMdoxA1xjcur12B7V,spotify:artist:2DaP4uXwKOXAaD77XokW9a,Somebody,spotify:album:5ALipDbGrV5mJxJqt1MNN1,209947,Dream Wife,Dream Wife
+523,Lauren Ruth Ward,spotify:track:4s25mRE55lYB4pYXRdlhxw,spotify:artist:6RFGwX2bAZqXSeXfdqzXUY,I Feel Cool,spotify:album:0E403A9AmdRLuIx99iJ8oW,177853,Lauren Ruth Ward - EP,Lauren Ruth Ward
+524,Amandla Stenberg,spotify:track:2vT2lOR19A03pPC1BnqFz5,spotify:artist:0DK7ZkQ9RydhZnOhI6j6Ck,Let My Baby Stay,spotify:album:1U364yhBi3v5U7BvW7tjKb,144933,Let My Baby Stay,Amandla Stenberg
+525,Vanessa Carlton,spotify:track:5y69gQtK33qxb8a24ACkCy,spotify:artist:5ILrArfIV0tMURcHJN8Q07,A Thousand Miles,spotify:album:7D6BFTArx2ajtkKRVXIKO2,237493,Be Not Nobody,Vanessa Carlton
+526,Christine and the Queens,spotify:track:2ILilOGEh31uHITYFazrLM,spotify:artist:04vj3iPUiVh5melWr0w3xT,Tilted,spotify:album:0xWXamgZr4z2zSYrvcoOar,233247,Chaleur Humaine,Christine and the Queens
+527,Miki Ratsula,spotify:track:4jt1LSZ6mQxufdrWzkrKoc,spotify:artist:3Yq0Ww7oAbgxcoOxthlS30,Radiant Warmth,spotify:album:44ER1zGyuw1MzYQLBnVPQZ,285407,Every Shade of Blue - EP,Miki Ratsula
+528,phem,spotify:track:3H6de7vWCzmfkj5XB052Yu,spotify:artist:0MGJHTThvyAyqKuEAgPqDr,blinders,spotify:album:6dS8OBluMTDKFKszepTzJv,175983,blinders,phem
+529,The Greeting Committee,spotify:track:7CrTWohCuzWE9VqeErADr8,spotify:artist:1MIe1z4RdqLqHSJsb7EBMm,She's A Gun,spotify:album:0l3LrcbSoZe3bFBNktXxYU,196821,Meeting People Is Easy,The Greeting Committee
+530,Lovers,spotify:track:7puo4S8ClhmRBQoZ2Rqbi6,spotify:artist:0uRcRqK4PBk2LJBQ9TUq7q,Girl in the Grass,spotify:album:04AGkBRdeAH5coyV2rkY9U,258000,A Friend in the World,Lovers
+531,Tiara Thomas,spotify:track:2I5iXD51j7CkVG8wrGqxNm,spotify:artist:69FykkhiqpzqeSNYRxc8BI,Retro 1's,spotify:album:2qzet4vhLtNVOrv2J1OYTr,173466,FWMM,Tiara Thomas
+532,Lucy Spraggan,spotify:track:2TxcfaWqSgAep9enCCzjig,spotify:artist:3QLPy7F0m9XgChp2Lk9B3N,Fight for It,spotify:album:5otMKAaRkAAJk1PDcL7R5C,216920,I Hope You Don't Mind Me Writing,Lucy Spraggan
+533,RoxXxan,spotify:track:5mgbIinNRlqTCFNU10VAM4,spotify:artist:4r6EpPgUwlfHiziwld4Dwd,Too Fucking Facety,spotify:album:2gUCSW2BCH6D4XSmEOm4dC,181342,Black Arkitec Presents Queenz Uv da Undaground,RoxXxan
+534,Beth O'Reilly,spotify:track:5qWbdrM9ioSVfuDIrDqYt5,spotify:artist:4EElyIuQ7Tt8pIJatRZe42,Vignette,spotify:album:3Ef6f6kQ6uAtyhd1dRlAN0,243713,See You In November,Beth O'Reilly
+535,Marika Hackman,spotify:track:6Qjk6ZEltFhFqCIU2cp4Yd,spotify:artist:5DGJC3n9DS0Y9eY5ul9y0O,Boyfriend,spotify:album:58IxxVGqidZ8sLWNKeknlH,239346,I'm Not Your Man (Deluxe),Marika Hackman
+536,Asobi Seksu,spotify:track:4qfP4divr2At9B7GlYI1r2,spotify:artist:7vXdfh8G9fJVGvfUSkqf62,Trails,spotify:album:2e2UUeLy9wGgZByfYTSUek,240035,Trails,Asobi Seksu
+537,Beatrice Eli,spotify:track:3B5Gcq2VDjfsT7nqQkN0J3,spotify:artist:1lzoEy8yiIBiHOuaO4h5Wj,That's Not Us,spotify:album:6Lelp5AaeRwLLX0HqbWJFF,283586,That's Not Us,Beatrice Eli
+538,Gossip,spotify:track:48eUcHz6HlIXU8tVdv9Lk1,spotify:artist:3sFTupo9UGgrujjN21BjwR,Heavy Cross,spotify:album:5986Ox60Imwum9mn64LDPl,242773,Live In Liverpool / Music For Men,Gossip
+539,God Is My Co-Pilot,spotify:track:6eY7QtqVFQ1rDBmVSLddOT,spotify:artist:595cF94SwW4pjAaXVzrRYp,Steal Yr GF,spotify:album:04LikfrZ5KAUJ9RyJb5nML,84346,The Best Of God Is My Co-pilot,God Is My Co-Pilot
+540,Amanda Palmer,spotify:track:00cBbYhjnOBO0mO67EZHdB,spotify:artist:726Dh6A5VyDfAAQxilT6A0,The Killing Type,spotify:album:1HzlQAXKROb3KA4blk2a0e,269853,Theatre Is Evil (AUS/NZ Bonus Version),"Amanda Palmer, The Grand Theft Orchestra"
+541,Amy Winehouse,spotify:track:6nLvaCZFR1wEzW3sIKpsnr,spotify:artist:6Q192DXotxtaysaqNPy5yR,"Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",spotify:album:0E4xv5gPjykrwBgBZzI8XG,233733,Back To Black (Deluxe Edition),Amy Winehouse
+542,Ladyhawke,spotify:track:1YhzlKAGZCgFmu3maqDQtl,spotify:artist:5TfnQ0Ai1cEbKY5katFK14,My Delirium,spotify:album:31AFNVRlzhlhqX9LCwPfHF,254480,Ladyhawke (Deluxe Edition),Ladyhawke
+543,Christina Aguilera,spotify:track:0dmBhUb8BZnd0F8rEhzpTI,spotify:artist:1l7ZsJRRS8wlW3WfJfPfNS,Maria,spotify:album:7MfUiQkVEDkOSmU83A2C9q,274760,Liberation,Christina Aguilera
+544,Domo Wilson,spotify:track:2z5cGLizHK4KsJzpzUZQt7,spotify:artist:2h2fB0j2IN50sSwolVO1AZ,Not Even Her (Interlude),spotify:album:6dZVN99u26oJrUB3zlBpv3,107467,Hear Me Now,Domo Wilson
+545,Reesa Renee,spotify:track:6LqT8lsWNYPlrByU72MkUL,spotify:artist:1sP9nzoMXxaI0LiU1uWoLL,Hello Mama,spotify:album:1G7CUFe5Pm7xbwfQ6l8M9w,214257,Lovers Rock,Reesa Renee
+546,TORRES,spotify:track:1rnmw8pCjaYaLKzZg2dj4p,spotify:artist:3lrDYjsghBMfUTiLziD9q9,"Don't Run Away, Emilie",spotify:album:1EbIfYtE6PdK30IKwYBoKl,290520,Torres,TORRES
+547,King Princess,spotify:track:6VCeywT4JeawuZOUkQ1okx,spotify:artist:6beUvFUlKliUYJdLOXNj9C,Pussy Is God,spotify:album:4UzCY6ikiEN4rgY26I4jg0,205533,Pussy Is God,King Princess
+548,Rituals of Mine,spotify:track:5NQt10ZQ7X2GIDR0EGcJKR,spotify:artist:2diXk6bGS18SxXeoINo8MQ,BURST,spotify:album:4mVDspd46atvxStlfJReLS,175973,SLEEPER HOLD,Rituals of Mine
+549,Syd,spotify:track:0IaiJbZebXLqfetAkMEZzU,spotify:artist:3jk39CGeaaSO3FPKNx1RUx,Body,spotify:album:59Bbr32pMTFHlUb8Nv1Kr0,262053,Fin,Syd
+550,Hayley Kiyoko,spotify:track:5nFyaoBWwwMJ9fv33tZ2MB,spotify:artist:3LjhVl7GzYsza1biQjTpaN,What I Need (feat. Kehlani),spotify:album:2oRkkW6ZudviRBd6mx4CfL,219520,Expectations,"Hayley Kiyoko, Kehlani"
+551,Tonye,spotify:track:3fbEjW9QwPmyZBtmF3nFWV,spotify:artist:5K9ws283Aw1LXkB2UKLAts,Villain,spotify:album:14WfIR9XPjcqk4J0gohZpH,226671,Villain,Tonye
+552,KAYTRANADA,spotify:track:0lWmT9NbSJRgFY6g1GHu4e,spotify:artist:6qgnBH6iDM91ipVXv28OMu,What You Need (feat. Charlotte Day Wilson),spotify:album:73cx7CQjHEROjjzUGP3UpQ,183786,BUBBA,"KAYTRANADA, Charlotte Day Wilson"
+553,PVRIS,spotify:track:2r7NQ3jggLT6KFCrnveX6A,spotify:artist:6oFs3qk4VepIVFdoD4jmsy,Hallucinations,spotify:album:3hMxPBEQb3hMo8hZtfPmLR,223213,Hallucinations,PVRIS
+554,Austra,spotify:track:1kqantjg5HlqWuv3ZdLh7d,spotify:artist:1o43SzzuLoyOxqThmp7s0g,Beat And The Pulse,spotify:album:50Qw4ROY6SeTMD2vtEI0lp,361209,Beat And The Pulse,Austra
+555,Tegan and Sara,spotify:track:4dTVgHZFPlaq9nPbLVVLSG,spotify:artist:5e1BZulIiYWPRm8yogwUYH,Closer,spotify:album:5IUJ6v408Z7pECC3BXUJxX,209280,Heartthrob,Tegan and Sara
+556,LP,spotify:track:3SqvR3HYLlCTYzbDXJ52OC,spotify:artist:0J7U24vlOOIeMpuaO6Q85A,Lost on You,spotify:album:3R2TVCA5PMMnEcVlIOCMEG,268105,Lost on You,LP
+557,St. Vincent,spotify:track:4L7kaptgY6py2G3nRW9BVQ,spotify:artist:7bcbShaqKdcyjnmv4Ix8j6,Masseduction,spotify:album:4RoOGpdrgfiIUyv0kLaC4e,197426,MASSEDUCTION,St. Vincent
+558,Saara Aalto,spotify:track:7wg4XkjkSDZDfSLELES1wR,spotify:artist:2OsS8RgsvMnTgDsbWVzzPn,DANCE!!!,spotify:album:4VOQgglx8Hj8hAPQCQcgyo,197430,Wild Wild Wonderland,Saara Aalto
+559,MUNA,spotify:track:0bPSRn4crnh5f1JhELPlyL,spotify:artist:6xdRb2GypJ7DqnWAI2mHGn,I Know A Place,spotify:album:0mfj2MrZptbPw7K5Wo4ikY,272813,About U,MUNA
+560,Hurray For The Riff Raff,spotify:track:6NnAL3hpHKZWOqXUj2U9pc,spotify:artist:2xLEV2jDreAOcpJXFNoXyt,Living in the City,spotify:album:5adjXoQAbZTTTFmifa3qCN,196893,The Navigator,Hurray For The Riff Raff
+561,The Blow,spotify:track:0AcZL4zY29jBlVp2lVA23O,spotify:artist:3VNDPLoRirZi28lxSEYkZQ,True Affection,spotify:album:44TBeWVP4PNrz8ymxbPzoE,203013,Paper Television,The Blow
+562,The xx,spotify:track:1zuKjpp4t7BS8JPKi6mkQr,spotify:artist:3iOvXCl6edW5Um0fXEBRXy,Angels,spotify:album:2cRMVS71c49Pf5SnIlJX3U,171653,Coexist,The xx
+563,Wild Black,spotify:track:7HlRRZLteNkpJGwhNWeg3I,spotify:artist:4Wx9VgJKF7vpegF1V1zHzS,Moon Star Lover,spotify:album:14GXZWEAaANqQMCneF5iiG,262343,Moon Star Lover,Wild Black
+564,Kera & the Lesbians,spotify:track:4FPRWEfHn398H0UaDFzDkq,spotify:artist:7tS4uXuthmcQR85x9gR1QJ,Witch's Tit,spotify:album:5PTLb38YkQHazrZNd6J8KO,213093,Kera & the Lesbians,Kera & the Lesbians
+565,Angel Haze,spotify:track:66Cl8DBb0lN92Zxc6DuzRe,spotify:artist:2cyyGl4qnHZL0o16t0fpJl,Moonrise Kingdom,spotify:album:1MxoNDGYqAgNg3Y7zlaxGi,267383,Back to the Woods,Angel Haze
+566,No Girlfriends,spotify:track:3TqbEroNHLIDqER2swwG3q,spotify:artist:42B8aTW7HILyuaFPprBwXH,Sheets,spotify:album:1sUQWmNoJx6d3MfLOYIpCW,166018,Sheets,No Girlfriends
+567,Janelle Monáe,spotify:track:5al9is1AQnaI3lTi20DUG6,spotify:artist:6ueGR6SWhUJfvEhqkvMsVs,Cold War,spotify:album:7MvSB0JTdtl1pSwZcgvYQX,203626,The ArchAndroid,Janelle Monáe
+568,Cœur De Pirate,spotify:track:4TebWmEYsYpdh3suakII7q,spotify:artist:2eRNMtoi82UZUuaL6naDjA,Carry On,spotify:album:4nQg1mUddBTQqnBTDyHCr6,215360,Roses,Cœur De Pirate
+569,Tracy Chapman,spotify:track:2M9ro2krNb7nr7HSprkEgo,spotify:artist:7oPgCQqMMXEXrNau5vxYZP,Fast Car,spotify:album:6hmmX5UP4rIvOpGSaPerV8,296800,Tracy Chapman,Tracy Chapman
+570,Lower Dens,spotify:track:7K1W45RdlsDiKEowF7hJJv,spotify:artist:5uTJLo3c4ZHpH8oEwGxYUN,Galapagos,spotify:album:6rx96PrG4n2r80W391kTfZ,260522,The Competition,Lower Dens
+571,Screaming Females,spotify:track:5Kd4uMRkIeLJ1xYQ4tBPlf,spotify:artist:3pZ666b6CyO1KGpVYirY0t,I'll Make You Sorry,spotify:album:1fOxg0lovMu0CPUT2G1WCL,251480,All at Once,Screaming Females
+572,Christine and the Queens,spotify:track:38UmFlYXLq3ZYxZ28gQGLT,spotify:artist:04vj3iPUiVh5melWr0w3xT,iT,spotify:album:6icxSA6dVp16bBXaeAMSYG,218159,Christine And The Queens,Christine and the Queens
+573,Savages,spotify:track:2UGLwTvRN0CHLAhVlcBjCs,spotify:artist:1WFsBUAgQmrGQQEUyFKS60,Surrender (Trentemøller Remix),spotify:album:4DKAJlf6YGZ1c1yCp21bMp,368754,Surrender (Trentemøller Remix),Savages
+574,Mount Moriah,spotify:track:6rGGxHtVSLLYNm8AH9tbGt,spotify:artist:0NIClyUOoNPl2GQouxBYH7,Younger Days,spotify:album:56815EJbq3bmoYtcoDP695,183206,Miracle Temple,Mount Moriah
+575,Shawn Colvin,spotify:track:4mOxpj82q6n3EO7HBZCelX,spotify:artist:0K7VN4aHxHcEb7PqkfoIVA,Sunny Came Home,spotify:album:3EZXmJz03Dj8sB3K26Gmx8,264200,A Few Small Repairs,Shawn Colvin
+576,Rhiannon Scutt,spotify:track:5Qhn6WgCoaS4E8qang2BN1,spotify:artist:1ZLQzDMiUYRLrlk65jf75x,Stevie,spotify:album:36cNdm4UMUMZu25oOgk5FF,224727,Stevie,Rhiannon Scutt
+577,FOXTROTT,spotify:track:1OKULlMIHhr4k4118tTUwX,spotify:artist:0fL7CM2Gv7L0r4Z2JsYtXu,Take Me I'm Here,spotify:album:4c64g8avg8vOWpVYWiiivv,261721,Meditations I-II-III,FOXTROTT
+578,k.d. lang,spotify:track:5TK55y7SXDt36Fi14WBG8X,spotify:artist:6W1BHDF0T4a4KYcSwzD586,Constant Craving,spotify:album:1XHEQqyatYvfK5cEJfkPeK,281773,Ingénue (25th Anniversary Edition),k.d. lang
+579,Ariane Moffatt,spotify:track:2nTu3jikKUP01bD5GkxgoD,spotify:artist:5x9UA1g9OYt1wCyPb0YN8l,Walls of the World,spotify:album:5GUIokWQutqoCjNqn7PpNw,267280,Ma,Ariane Moffatt
+580,Courtney Barnett,spotify:track:7uoQRNx100em2FLLxnqym0,spotify:artist:4OOlG5eBXSkSAAEeKjJb5Y,Pedestrian at Best,spotify:album:1WBps8cIMT6LYVq5rYh5ze,230560,"Sometimes I Sit and Think, And Sometimes I Just Sit",Courtney Barnett
+581,Mary Lambert,spotify:track:3V3iy4K6paycRmTyrjQVwi,spotify:artist:5Z2NUZiY3FA00HKu5WTMhA,Secrets,spotify:album:7mmdJJoGtwStzZImLRmRFS,223405,Heart On My Sleeve (Deluxe),Mary Lambert
+582,Brandy Clark,spotify:track:11ztTGjFtV3MNoNx0XvApC,spotify:artist:5vMAKlvvMNSRQRYCAvpG6S,Same Devil (feat. Brandi Carlile),spotify:album:6XL1xCLdUOU6j35YspCkqO,187466,Same Devil (feat. Brandi Carlile),"Brandy Clark, Brandi Carlile"
