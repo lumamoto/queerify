@@ -3,6 +3,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import os, csv
 from dotenv import load_dotenv
+import glob
+import pandas as pd
 load_dotenv()
 cid=os.getenv('cid')
 client_secret=os.getenv('client_secret')
@@ -51,6 +53,24 @@ def save_data(link=None,output_file='data/data.csv'):
             album_uri,duration,album_name,artists])
 
         
-generate_data()
+def generate_dataset():
+    save_data(link='https://open.spotify.com/playlist/37i9dQZF1DWYdV3Fs5eWjC?si=f9f6c669575b433e'\
+    ,output_file='data/data1.csv')
+    save_data(link='https://open.spotify.com/playlist/09LRzqN5YKbiMZrJ29tB4r?si=73669677a61847db'\
+    ,output_file='data/data2.csv')
+    save_data(link='https://open.spotify.com/playlist/5GIrdzOEabFNOtFwSISifM?si=69e6c9ed02884498'\
+    ,output_file='data/data3.csv')
+    save_data(output_file='data/data4.csv')
+    save_data(link='https://open.spotify.com/playlist/4MSg3vB23KtBZEF6Bx5TzS?si=48548b89aa194f3b'\
+    ,output_file='data/data5.csv')
+    save_data(link='https://open.spotify.com/playlist/0HuloRIml4hNBlJhCVWe1T?si=bd89f940d2b14d3f'\
+    ,output_file='data/data6.csv')
+    save_data(link='https://open.spotify.com/playlist/35MZThasjOKls4Cyy7RsoQ?si=35667e0f1e32462e'\
+    ,output_file='data/data7.csv')
 
+    files=os.path.join('data/','data*.csv')
+    joined_list=glob.glob(files)
+    df = pd.concat(map(pd.read_csv, joined_list), ignore_index=True)
+    df.to_csv('data/dataset.csv')
 
+generate_dataset()
