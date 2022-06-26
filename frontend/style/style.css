@@ -94,7 +94,7 @@ a{
   margin:0px;
   
 }
-#searchBrowse {
+#searchPlaylists {
   margin: 10px 0px 0px 320px;
   animation-name: rainbow;
   animation-duration: 1.2s;
@@ -116,7 +116,7 @@ a{
 #homeImg {
   margin: 80px 0px 10px 200px;
 }
-#browseImg {
+#playlistsImg {
   width: 55%;
   height: 55%;
   margin: 50px 0px 30px 400px;
@@ -174,8 +174,19 @@ p {
   background: linear-gradient(45deg, #ed7676, #edbe77, #eded77, #89ed77, #7977ed, #cd77ed);
 }
 
-.tooBig {
+/* .tooBig {
   width: 19%;
   height: 19%;
   border-radius: 25px;
+} */
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 10px;
+}
+.grid-item {
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
 }

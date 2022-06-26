@@ -1,4 +1,3 @@
-from pydoc import cli
 import spotipy
 import spotipy.util as util
 from spotipy import SpotifyException
@@ -10,7 +9,6 @@ import re
 
 load_dotenv()
 
-# SPOTIFY_USERNAME = os.getenv('SPOTIFY_USERNAME')
 SPOTIFY_CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
 SPOTIFY_CLIENT_SECRET = os.getenv('SPOTIFY_CLIENT_SECRET')
 
@@ -20,7 +18,6 @@ scope = 'user-top-read playlist-modify-public'
 
 def get_user_token():
     token = util.prompt_for_user_token(
-        # SPOTIFY_USERNAME,
         scope=scope,
         client_id=SPOTIFY_CLIENT_ID,
         client_secret=SPOTIFY_CLIENT_SECRET,
