@@ -36,10 +36,8 @@ def create_wiki_csv():
         # Add their identities to list
         identity = soup.find('h1').text
         identity = identity.partition("Category:")[2].rpartition(" musicians")[0]
-        if "women" in identity:
-            identity = identity.replace("women", "woman")
         if "male" in identity:
-            identity = identity.replace("male", "man")
+            identity = identity.replace("male", "men")
         for i in range(num_artists):
             identities.append(identity)
 
@@ -48,6 +46,6 @@ def create_wiki_csv():
     # print(df)
 
     # Export to .csv
-    df.to_csv('data/wikipedia.csv')
+    df.to_csv('data/wikipedia.csv', index=False)
 
 create_wiki_csv()
