@@ -5,3 +5,6 @@ sklearn
 textblob
 tqdm
 python-dotenv
+bs4
+urllib3
+spotipy
