@@ -1,0 +1,28 @@
+{
+  "name": "queerify",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Queerify</h1> <img src=\"https://user-images.githubusercontent.com/83456083/175811980-fcb8eee8-e274-46ad-b7a1-2ccf9fed2ec5.png\" align=\"center\" />",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon run app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arghya17/queerify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arghya17/queerify/issues"
+  },
+  "homepage": "https://github.com/arghya17/queerify#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.18",
+    "shelljs": "^0.8.5"
+  }
+}
