@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Queerify is an app built using the Spotify API, Python and Jupyter Notebook that recommends songs so people can discover their new favourite artist easily
+Queerify is an app built using the Spotify API, Python and Jupyter Notebook that recommends songs so people can discover their new favourite artist easily. This project was built during PrideHacksII hackathon hosted by MLH.
 
 ## How to use the recommendation model?
 
