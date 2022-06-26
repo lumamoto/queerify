@@ -1,12 +1,12 @@
 @font-face
 {
   font-family: CookieMonster;
-  src: url("CookieMonster.ttf");
+  src: url("assets/font/CookieMonster.ttf");
 }
 @font-face
 {
   font-family: alwaysforever;
-  src: url("always\ forever.ttf")
+  src: url("assets/font/always\ forever.ttf")
 }
 
 @keyframes rainbow

@@ -34,7 +34,7 @@ def save_data(output_file='data/data.csv'):
     spotify = get_user_token()
 
     try:
-        tracks = spotify.current_user_top_tracks(limit=100, time_range='long_term')['items']
+        tracks = spotify.current_user_top_tracks(limit=50, time_range='long_term')['items']
     except SpotifyException as err:
         print(f'Exception Occurred: {err}')
 
